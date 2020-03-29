@@ -1,0 +1,2051 @@
+19:32:29.599702 IP6 (flowlabel 0xcdece, hlim 1, next-header UDP (17) payload length: 99) fe80::b272:bfff:fedc:b230.43842 > ff12::8384.21027: [udp sum ok] UDP, length 91
+        0x0000:  3333 0000 8384 b072 bfdc b230 86dd 600c  33.....r...0..`.
+        0x0010:  dece 0063 1101 fe80 0000 0000 0000 b272  ...c...........r
+        0x0020:  bfff fedc b230 ff12 0000 0000 0000 0000  .....0..........
+        0x0030:  0000 0000 8384 ab42 5223 0063 a74b 2ea7  .......BR#.c.K..
+        0x0040:  d90b 0a20 f1cb ff6f ff2b 7f29 d8fb bb3c  .......o.+.)...<
+        0x0050:  a842 aa09 9ae7 9b9d 4306 2297 9d5d 6e34  .B......C."..]n4
+        0x0060:  000f c682 1213 7463 703a 2f2f 302e 302e  ......tcp://0.0.
+        0x0070:  302e 303a 3232 3030 3012 1471 7569 633a  0.0:22000..quic:
+        0x0080:  2f2f 302e 302e 302e 303a 3232 3030 3018  //0.0.0.0:22000.
+        0x0090:  c6b5 9ef5 cdb2 b8b3 0b                   .........
+19:32:29.599789 IP6 (flowlabel 0xcdece, hlim 1, next-header UDP (17) payload length: 99) fe80::b272:bfff:fedc:b230.43842 > ff12::8384.21027: [udp sum ok] UDP, length 91
+        0x0000:  3333 0000 8384 b072 bfdc b230 86dd 600c  33.....r...0..`.
+        0x0010:  dece 0063 1101 fe80 0000 0000 0000 b272  ...c...........r
+        0x0020:  bfff fedc b230 ff12 0000 0000 0000 0000  .....0..........
+        0x0030:  0000 0000 8384 ab42 5223 0063 a74b 2ea7  .......BR#.c.K..
+        0x0040:  d90b 0a20 f1cb ff6f ff2b 7f29 d8fb bb3c  .......o.+.)...<
+        0x0050:  a842 aa09 9ae7 9b9d 4306 2297 9d5d 6e34  .B......C."..]n4
+        0x0060:  000f c682 1213 7463 703a 2f2f 302e 302e  ......tcp://0.0.
+        0x0070:  302e 303a 3232 3030 3012 1471 7569 633a  0.0:22000..quic:
+        0x0080:  2f2f 302e 302e 302e 303a 3232 3030 3018  //0.0.0.0:22000.
+        0x0090:  c6b5 9ef5 cdb2 b8b3 0b                   .........
+19:32:32.834064 38:1d:d9:41:db:ff (oui Unknown) > Broadcast Null Unnumbered, xid, Flags [Response], length 6: 01 00
+        0x0000:  ffff ffff ffff 381d d941 dbff 0006 0001  ......8..A......
+        0x0010:  af81 0100                                ....
+19:32:32.835152 EAPOL key (3) v2, len 95
+        0x0000:  381d d941 dbff 10fe ed94 21f3 888e 0203  8..A......!.....
+        0x0010:  005f 0200 8a00 1000 0000 0000 0000 0158  ._.............X
+        0x0020:  04c9 ddb7 14ba 9983 1728 65f1 97ef 580a  .........(e...X.
+        0x0030:  8a35 4551 3380 fb6b 0a3e 33f8 714b fc00  .5EQ3..k.>3.qK..
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  00                                       .
+19:32:32.851015 EAPOL key (3) v1, len 117
+        0x0000:  10fe ed94 21f3 381d d941 dbff 888e 0103  ....!.8..A......
+        0x0010:  0075 0201 0a00 0000 0000 0000 0000 0141  .u.............A
+        0x0020:  700e 198d d5ce e359 deb4 b4b7 20e3 3f25  p......Y......?%
+        0x0030:  fc1a f14c 1ffe d4f5 bce7 1bee dbc9 1f00  ...L............
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0056  ...............V
+        0x0060:  b15f 79f3 ab44 acaf 5c59 e639 6152 9400  ._y..D..\Y.9aR..
+        0x0070:  1630 1401 0000 0fac 0201 0000 0fac 0401  .0..............
+        0x0080:  0000 0fac 0200 00                        .......
+19:32:32.852129 EAPOL key (3) v2, len 175
+        0x0000:  381d d941 dbff 10fe ed94 21f3 888e 0203  8..A......!.....
+        0x0010:  00af 0213 ca00 1000 0000 0000 0000 0258  ...............X
+        0x0020:  04c9 ddb7 14ba 9983 1728 65f1 97ef 580a  .........(e...X.
+        0x0030:  8a35 4551 3380 fb6b 0a3e 33f8 714b fc00  .5EQ3..k.>3.qK..
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0059  ...............Y
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0013  ................
+        0x0060:  d71c 82f0 cd14 4fe5 58fc 32bd f56c ec00  ......O.X.2..l..
+        0x0070:  50c5 b40f c9d6 71a3 e62b 8164 9884 250c  P.....q..+.d..%.
+        0x0080:  08ef 2d9d 119e d4f9 b970 28ce a2d0 11d4  ..-......p(.....
+        0x0090:  843b f527 b55c d16f 80c7 9584 6325 364b  .;.'.\.o....c%6K
+        0x00a0:  e3b7 5d10 9853 06df 9e39 6f0f 2f9a d390  ..]..S...9o./...
+        0x00b0:  8f6f b66f f6c1 e133 cd10 b617 3217 0a58  .o.o...3....2..X
+        0x00c0:  92                                       .
+19:32:32.860662 EAPOL key (3) v1, len 95
+        0x0000:  10fe ed94 21f3 381d d941 dbff 888e 0103  ....!.8..A......
+        0x0010:  005f 0203 0a00 0000 0000 0000 0000 0200  ._..............
+        0x0020:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 00e2  ................
+        0x0060:  7c52 e3b1 f6cf 7c7a e47e a6f9 8b7d 6100  |R....|z.~...}a.
+        0x0070:  00                                       .
+19:32:33.315753 IP (tos 0x0, ttl 64, id 0, offset 0, flags [none], proto UDP (17), length 328)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: [udp sum ok] BOOTP/DHCP, Request from 38:1d:d9:41:db:ff (oui Unknown), length 300, xid 0xf33fb72d, Flags [none] (0x0000)
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: Discover
+            Client-ID Option 61, length 7: ether 38:1d:d9:41:db:ff
+            Vendor-Class Option 60, length 12: "udhcp 1.15.1"
+            MSZ Option 57, length 2: 576
+            Parameter-Request Option 55, length 7:
+              Subnet-Mask, Default-Gateway, Domain-Name-Server, Hostname
+              Domain-Name, BR, NTP
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0148 0000 0000 4011 79a6 0000 0000 ffff  .H....@.y.......
+        0x0020:  ffff 0044 0043 0134 aeb1 0101 0600 f33f  ...D.C.4.......?
+        0x0030:  b72d 0000 0000 0000 0000 0000 0000 0000  .-..............
+        0x0040:  0000 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 013d 0701  ......c.Sc5..=..
+        0x0120:  381d d941 dbff 3c0c 7564 6863 7020 312e  8..A..<.udhcp.1.
+        0x0130:  3135 2e31 3902 0240 3707 0103 060c 0f1c  15.19..@7.......
+        0x0140:  2aff 0000 0000 0000 0000 0000 0000 0000  *...............
+        0x0150:  0000 0000 0000                           ......
+19:32:33.315870 IP (tos 0x0, ttl 64, id 0, offset 0, flags [none], proto UDP (17), length 328)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: [udp sum ok] BOOTP/DHCP, Request from 38:1d:d9:41:db:ff (oui Unknown), length 300, xid 0xf33fb72d, Flags [none] (0x0000)
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: Discover
+            Client-ID Option 61, length 7: ether 38:1d:d9:41:db:ff
+            Vendor-Class Option 60, length 12: "udhcp 1.15.1"
+            MSZ Option 57, length 2: 576
+            Parameter-Request Option 55, length 7:
+              Subnet-Mask, Default-Gateway, Domain-Name-Server, Hostname
+              Domain-Name, BR, NTP
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0148 0000 0000 4011 79a6 0000 0000 ffff  .H....@.y.......
+        0x0020:  ffff 0044 0043 0134 aeb1 0101 0600 f33f  ...D.C.4.......?
+        0x0030:  b72d 0000 0000 0000 0000 0000 0000 0000  .-..............
+        0x0040:  0000 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 013d 0701  ......c.Sc5..=..
+        0x0120:  381d d941 dbff 3c0c 7564 6863 7020 312e  8..A..<.udhcp.1.
+        0x0130:  3135 2e31 3902 0240 3707 0103 060c 0f1c  15.19..@7.......
+        0x0140:  2aff 0000 0000 0000 0000 0000 0000 0000  *...............
+        0x0150:  0000 0000 0000                           ......
+19:32:33.316898 IP (tos 0x0, ttl 64, id 10242, offset 0, flags [none], proto UDP (17), length 346)
+    192.168.30.1.bootps > miracast-sidescreen.loc.bootpc: [udp sum ok] BOOTP/DHCP, Reply, length 318, xid 0xf33fb72d, Flags [none] (0x0000)
+          Your-IP miracast-sidescreen.loc
+          Server-IP 192.168.30.1
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: Offer
+            Server-ID Option 54, length 4: 192.168.30.1
+            Lease-Time Option 51, length 4: 43200
+            RN Option 58, length 4: 21600
+            RB Option 59, length 4: 37800
+            Subnet-Mask Option 1, length 4: 255.255.255.0
+            BR Option 28, length 4: 192.168.30.255
+            Default-Gateway Option 3, length 4: 192.168.30.1
+            Domain-Name-Server Option 6, length 4: 192.168.30.1
+            Domain-Name Option 15, length 3: "loc"
+            Hostname Option 12, length 19: "miracast-sidescreen"
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  015a 2802 0000 4011 934c c0a8 1e01 c0a8  .Z(...@..L......
+        0x0020:  1ef3 0043 0044 0146 f3d5 0201 0600 f33f  ...C.D.F.......?
+        0x0030:  b72d 0000 0000 0000 0000 c0a8 1ef3 c0a8  .-..............
+        0x0040:  1e01 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 0236 04c0  ......c.Sc5..6..
+        0x0120:  a81e 0133 0400 00a8 c03a 0400 0054 603b  ...3.....:...T`;
+        0x0130:  0400 0093 a801 04ff ffff 001c 04c0 a81e  ................
+        0x0140:  ff03 04c0 a81e 0106 04c0 a81e 010f 0370  ...............p
+        0x0150:  7361 0c13 6d69 7261 6361 7374 2d73 6964  sa..miracast-sid
+        0x0160:  6573 6372 6565 6eff                      escreen.
+19:32:33.347792 IP (tos 0x0, ttl 64, id 0, offset 0, flags [none], proto UDP (17), length 328)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: [udp sum ok] BOOTP/DHCP, Request from 38:1d:d9:41:db:ff (oui Unknown), length 300, xid 0xf33fb72d, Flags [none] (0x0000)
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: Request
+            Client-ID Option 61, length 7: ether 38:1d:d9:41:db:ff
+            Vendor-Class Option 60, length 12: "udhcp 1.15.1"
+            Requested-IP Option 50, length 4: miracast-sidescreen.loc
+            Server-ID Option 54, length 4: 192.168.30.1
+            Parameter-Request Option 55, length 7:
+              Subnet-Mask, Default-Gateway, Domain-Name-Server, Hostname
+              Domain-Name, BR, NTP
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0148 0000 0000 4011 79a6 0000 0000 ffff  .H....@.y.......
+        0x0020:  ffff 0044 0043 0134 c1a5 0101 0600 f33f  ...D.C.4.......?
+        0x0030:  b72d 0000 0000 0000 0000 0000 0000 0000  .-..............
+        0x0040:  0000 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 033d 0701  ......c.Sc5..=..
+        0x0120:  381d d941 dbff 3c0c 7564 6863 7020 312e  8..A..<.udhcp.1.
+        0x0130:  3135 2e31 3204 c0a8 1ef3 3604 c0a8 1e01  15.12.....6.....
+        0x0140:  3707 0103 060c 0f1c 2aff 0000 0000 0000  7.......*.......
+        0x0150:  0000 0000 0000                           ......
+19:32:33.347890 IP (tos 0x0, ttl 64, id 0, offset 0, flags [none], proto UDP (17), length 328)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: [udp sum ok] BOOTP/DHCP, Request from 38:1d:d9:41:db:ff (oui Unknown), length 300, xid 0xf33fb72d, Flags [none] (0x0000)
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: Request
+            Client-ID Option 61, length 7: ether 38:1d:d9:41:db:ff
+            Vendor-Class Option 60, length 12: "udhcp 1.15.1"
+            Requested-IP Option 50, length 4: miracast-sidescreen.loc
+            Server-ID Option 54, length 4: 192.168.30.1
+            Parameter-Request Option 55, length 7:
+              Subnet-Mask, Default-Gateway, Domain-Name-Server, Hostname
+              Domain-Name, BR, NTP
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0148 0000 0000 4011 79a6 0000 0000 ffff  .H....@.y.......
+        0x0020:  ffff 0044 0043 0134 c1a5 0101 0600 f33f  ...D.C.4.......?
+        0x0030:  b72d 0000 0000 0000 0000 0000 0000 0000  .-..............
+        0x0040:  0000 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 033d 0701  ......c.Sc5..=..
+        0x0120:  381d d941 dbff 3c0c 7564 6863 7020 312e  8..A..<.udhcp.1.
+        0x0130:  3135 2e31 3204 c0a8 1ef3 3604 c0a8 1e01  15.12.....6.....
+        0x0140:  3707 0103 060c 0f1c 2aff 0000 0000 0000  7.......*.......
+        0x0150:  0000 0000 0000                           ......
+19:32:33.349788 IP (tos 0x0, ttl 64, id 10243, offset 0, flags [none], proto UDP (17), length 346)
+    192.168.30.1.bootps > miracast-sidescreen.loc.bootpc: [udp sum ok] BOOTP/DHCP, Reply, length 318, xid 0xf33fb72d, Flags [none] (0x0000)
+          Your-IP miracast-sidescreen.loc
+          Server-IP 192.168.30.1
+          Client-Ethernet-Address 38:1d:d9:41:db:ff (oui Unknown)
+          Vendor-rfc1048 Extensions
+            Magic Cookie 0x63825363
+            DHCP-Message Option 53, length 1: ACK
+            Server-ID Option 54, length 4: 192.168.30.1
+            Lease-Time Option 51, length 4: 43200
+            RN Option 58, length 4: 21600
+            RB Option 59, length 4: 37800
+            Subnet-Mask Option 1, length 4: 255.255.255.0
+            BR Option 28, length 4: 192.168.30.255
+            Default-Gateway Option 3, length 4: 192.168.30.1
+            Domain-Name-Server Option 6, length 4: 192.168.30.1
+            Domain-Name Option 15, length 3: "loc"
+            Hostname Option 12, length 19: "miracast-sidescreen"
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  015a 2803 0000 4011 934b c0a8 1e01 c0a8  .Z(...@..K......
+        0x0020:  1ef3 0043 0044 0146 f0d5 0201 0600 f33f  ...C.D.F.......?
+        0x0030:  b72d 0000 0000 0000 0000 c0a8 1ef3 c0a8  .-..............
+        0x0040:  1e01 0000 0000 381d d941 dbff 0000 0000  ......8..A......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0080:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0090:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00a0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00b0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00c0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00d0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00e0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x00f0:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0100:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0110:  0000 0000 0000 6382 5363 3501 0536 04c0  ......c.Sc5..6..
+        0x0120:  a81e 0133 0400 00a8 c03a 0400 0054 603b  ...3.....:...T`;
+        0x0130:  0400 0093 a801 04ff ffff 001c 04c0 a81e  ................
+        0x0140:  ff03 04c0 a81e 0106 04c0 a81e 010f 0370  ...............p
+        0x0150:  7361 0c13 6d69 7261 6361 7374 2d73 6964  sa..miracast-sid
+        0x0160:  6573 6372 6565 6eff                      escreen.
+19:32:33.982342 IP (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    miracast-sidescreen.loc > igmp.mcast.net: igmp v3 report, 1 group record(s) [gaddr 224.0.0.251 to_ex { }]
+        0x0000:  0100 5e00 0016 381d d941 dbff 0800 46c0  ..^...8..A....F.
+        0x0010:  0028 0000 4000 0102 245e c0a8 1ef3 e000  .(..@...$^......
+        0x0020:  0016 9404 0000 2200 f902 0000 0001 0400  ......".........
+        0x0030:  0000 e000 00fb                           ......
+19:32:33.982433 IP (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    miracast-sidescreen.loc > igmp.mcast.net: igmp v3 report, 1 group record(s) [gaddr 224.0.0.251 to_ex { }]
+        0x0000:  0100 5e00 0016 381d d941 dbff 0800 46c0  ..^...8..A....F.
+        0x0010:  0028 0000 4000 0102 245e c0a8 1ef3 e000  .(..@...$^......
+        0x0020:  0016 9404 0000 2200 f902 0000 0001 0400  ......".........
+        0x0030:  0000 e000 00fb                           ......
+19:32:34.083074 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 192.168.30.1 tell miracast-sidescreen.loc, length 28
+        0x0000:  ffff ffff ffff 381d d941 dbff 0806 0001  ......8..A......
+        0x0010:  0800 0604 0001 381d d941 dbff c0a8 1ef3  ......8..A......
+        0x0020:  0000 0000 0000 c0a8 1e01                 ..........
+19:32:34.083152 ARP, Ethernet (len 6), IPv4 (len 4), Reply 192.168.30.1 is-at 10:fe:ed:94:21:f3 (oui Unknown), length 28
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0806 0001  8..A......!.....
+        0x0010:  0800 0604 0002 10fe ed94 21f3 c0a8 1e01  ..........!.....
+        0x0020:  381d d941 dbff c0a8 1ef3                 8..A......
+19:32:34.083228 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 192.168.30.1 tell miracast-sidescreen.loc, length 28
+        0x0000:  ffff ffff ffff 381d d941 dbff 0806 0001  ......8..A......
+        0x0010:  0800 0604 0001 381d d941 dbff c0a8 1ef3  ......8..A......
+        0x0020:  0000 0000 0000 c0a8 1e01                 ..........
+19:32:34.085159 IP (tos 0x0, ttl 64, id 25513, offset 0, flags [DF], proto UDP (17), length 61)
+    miracast-sidescreen.loc.33411 > 192.168.30.1.domain: [udp sum ok] 57919+ A? time.google.com. (33)
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  003d 63a9 4000 4011 18c2 c0a8 1ef3 c0a8  .=c.@.@.........
+        0x0020:  1e01 8283 0035 0029 5069 e23f 0100 0001  .....5.)Pi.?....
+        0x0030:  0000 0000 0000 0474 696d 6506 676f 6f67  .......time.goog
+        0x0040:  6c65 0363 6f6d 0000 0100 01              le.com.....
+19:32:34.085594 IP (tos 0x0, ttl 64, id 10312, offset 0, flags [DF], proto UDP (17), length 125)
+    192.168.30.1.domain > miracast-sidescreen.loc.33411: [udp sum ok] 57919 q: A? time.google.com. 4/0/0 time.google.com. A 216.239.35.12, time.google.com. A 216.239.35.8, time.google.com. A 216.239.35.0, time.google.com. A 216.239.35.4 (97)
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  007d 2848 4000 4011 53e3 c0a8 1e01 c0a8  .}(H@.@.S.......
+        0x0020:  1ef3 0035 8283 0069 9796 e23f 8180 0001  ...5...i...?....
+        0x0030:  0004 0000 0000 0474 696d 6506 676f 6f67  .......time.goog
+        0x0040:  6c65 0363 6f6d 0000 0100 01c0 0c00 0100  le.com..........
+        0x0050:  0100 0037 8500 04d8 ef23 0cc0 0c00 0100  ...7.....#......
+        0x0060:  0100 0037 8500 04d8 ef23 08c0 0c00 0100  ...7.....#......
+        0x0070:  0100 0037 8500 04d8 ef23 00c0 0c00 0100  ...7.....#......
+        0x0080:  0100 0037 8500 04d8 ef23 04              ...7.....#.
+19:32:34.131592 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto ICMP (1), length 84)
+    miracast-sidescreen.loc > time4.google.com: ICMP echo request, id 23820, seq 0, length 64
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  0054 0000 4000 4001 5f12 c0a8 1ef3 d8ef  .T..@.@._.......
+        0x0020:  230c 0800 e83d 5d0c 0000 3ab5 7800 0000  #....=]...:.x...
+        0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000                                     ..
+19:32:34.131789 IP (tos 0xc0, ttl 64, id 8642, offset 0, flags [none], proto ICMP (1), length 112)
+    192.168.30.1 > miracast-sidescreen.loc: ICMP time4.google.com protocol 1 port 59453 unreachable, length 92
+        IP (tos 0x0, ttl 63, id 0, offset 0, flags [DF], proto ICMP (1), length 84)
+    miracast-sidescreen.loc > time4.google.com: ICMP echo request, id 23820, seq 0, length 64
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 45c0  8..A......!...E.
+        0x0010:  0070 21c2 0000 4001 99c6 c0a8 1e01 c0a8  .p!...@.........
+        0x0020:  1ef3 0303 fcfc 0000 0000 4500 0054 0000  ..........E..T..
+        0x0030:  4000 3f01 6012 c0a8 1ef3 d8ef 230c 0800  @.?.`.......#...
+        0x0040:  e83d 5d0c 0000 3ab5 7800 0000 0000 0000  .=]...:.x.......
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000       ..............
+19:32:34.153783 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:34.153859 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:34.163450 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 197)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 4/0/0 _services._dns-sd._udp.local. PTR _raop._tcp.local., _airplay._tcp.local. PTR MiraScreen D941DBFF._airplay._tcp.local., _services._dns-sd._udp.local. PTR _airplay._tcp.local., _raop._tcp.local. PTR 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (169)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c5 0000 4000 ff11 ba90 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 00b1 e066 0000 8400 0000  .........f......
+        0x0030:  0004 0000 0000 095f 7365 7276 6963 6573  ......._services
+        0x0040:  075f 646e 732d 7364 045f 7564 7005 6c6f  ._dns-sd._udp.lo
+        0x0050:  6361 6c00 000c 0001 0000 1194 000d 055f  cal............_
+        0x0060:  7261 6f70 045f 7463 70c0 2308 5f61 6972  raop._tcp.#._air
+        0x0070:  706c 6179 c03a 000c 0001 0000 1194 0016  play.:..........
+        0x0080:  134d 6972 6153 6372 6565 6e20 4439 3431  .MiraScreen.D941
+        0x0090:  4442 4646 c041 c00c 000c 0001 0000 1194  DBFF.A..........
+        0x00a0:  0002 c041 c034 000c 0001 0000 1194 0023  ...A.4.........#
+        0x00b0:  2033 4131 4444 3934 3144 4246 4640 4d69  .3A1DD941DBFF@Mi
+        0x00c0:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x00d0:  46c0 34                                  F.4
+19:32:34.163526 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 197)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 4/0/0 _services._dns-sd._udp.local. PTR _raop._tcp.local., _airplay._tcp.local. PTR MiraScreen D941DBFF._airplay._tcp.local., _services._dns-sd._udp.local. PTR _airplay._tcp.local., _raop._tcp.local. PTR 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (169)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c5 0000 4000 ff11 ba90 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 00b1 e066 0000 8400 0000  .........f......
+        0x0030:  0004 0000 0000 095f 7365 7276 6963 6573  ......._services
+        0x0040:  075f 646e 732d 7364 045f 7564 7005 6c6f  ._dns-sd._udp.lo
+        0x0050:  6361 6c00 000c 0001 0000 1194 000d 055f  cal............_
+        0x0060:  7261 6f70 045f 7463 70c0 2308 5f61 6972  raop._tcp.#._air
+        0x0070:  706c 6179 c03a 000c 0001 0000 1194 0016  play.:..........
+        0x0080:  134d 6972 6153 6372 6565 6e20 4439 3431  .MiraScreen.D941
+        0x0090:  4442 4646 c041 c00c 000c 0001 0000 1194  DBFF.A..........
+        0x00a0:  0002 c041 c034 000c 0001 0000 1194 0023  ...A.4.........#
+        0x00b0:  2033 4131 4444 3934 3144 4246 4640 4d69  .3A1DD941DBFF@Mi
+        0x00c0:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x00d0:  46c0 34                                  F.4
+19:32:34.411477 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:34.411564 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:36.086138 IP (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 48, options (RA))
+    miracast-sidescreen.loc > igmp.mcast.net: igmp v3 report, 2 group record(s) [gaddr 239.255.255.250 to_ex { }] [gaddr 224.0.0.251 to_ex { }]
+        0x0000:  0100 5e00 0016 381d d941 dbff 0800 46c0  ..^...8..A....F.
+        0x0010:  0030 0000 4000 0102 2456 c0a8 1ef3 e000  .0..@...$V......
+        0x0020:  0016 9404 0000 2200 0507 0000 0002 0400  ......".........
+        0x0030:  0000 efff fffa 0400 0000 e000 00fb       ..............
+19:32:36.086219 IP (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 48, options (RA))
+    miracast-sidescreen.loc > igmp.mcast.net: igmp v3 report, 2 group record(s) [gaddr 239.255.255.250 to_ex { }] [gaddr 224.0.0.251 to_ex { }]
+        0x0000:  0100 5e00 0016 381d d941 dbff 0800 46c0  ..^...8..A....F.
+        0x0010:  0030 0000 4000 0102 2456 c0a8 1ef3 e000  .0..@...$V......
+        0x0020:  0016 9404 0000 2200 0507 0000 0002 0400  ......".........
+        0x0030:  0000 efff fffa 0400 0000 e000 00fb       ..............
+19:32:36.086744 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:36.086819 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 686)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0 [4q] [6n] ANY (QM)? 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. ANY (QM)? MiraScreen D941DBFF.local. ANY (QM)? 243.30.168.192.in-addr.arpa. ANY (QM)? MiraScreen D941DBFF._airplay._tcp.local. ns: MiraScreen D941DBFF.local. A 192.168.30.243, 243.30.168.192.in-addr.arpa. PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. SRV MiraScreen D941DBFF.local.:7000 0 0, 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" (658)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  02ae 0000 4000 ff11 b8a7 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 029a 66f7 0000 0000 0004  ........f.......
+        0x0030:  0000 0006 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 ff00 0113 4d69  cp.local......Mi
+        0x0070:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x0080:  46c0 3800 ff00 0103 3234 3302 3330 0331  F.8.....243.30.1
+        0x0090:  3638 0331 3932 0769 6e2d 6164 6472 0461  68.192.in-addr.a
+        0x00a0:  7270 6100 00ff 0001 134d 6972 6153 6372  rpa......MiraScr
+        0x00b0:  6565 6e20 4439 3431 4442 4646 085f 6169  een.D941DBFF._ai
+        0x00c0:  7270 6c61 79c0 3300 ff00 01c0 4300 0100  rplay.3.....C...
+        0x00d0:  0100 0000 7800 04c0 a81e f3c0 5d00 0c00  ....x.......]...
+        0x00e0:  0100 0000 7800 02c0 43c0 7e00 2100 0100  ....x...C.~.!...
+        0x00f0:  0000 7800 0800 0000 001b 58c0 43c0 7e00  ..x.......X.C.~.
+        0x0100:  1000 0100 0011 9400 da1a 6465 7669 6365  ..........device
+        0x0110:  6964 3d33 413a 3144 3a44 393a 3431 3a44  id=3A:1D:D9:41:D
+        0x0120:  423a 4646 1366 6561 7475 7265 733d 3078  B:FF.features=0x
+        0x0130:  3041 3746 4546 4630 0966 6c61 6773 3d30  0A7FEFF0.flags=0
+        0x0140:  7834 0f72 6d6f 6465 6c3d 455a 4169 7231  x4.rmodel=EZAir1
+        0x0150:  2c31 106d 6f64 656c 3d41 7070 6c65 5456  ,1.model=AppleTV
+        0x0160:  332c 320e 7372 6376 6572 733d 3232 302e  3,2.srcvers=220.
+        0x0170:  3638 0476 763d 3243 706b 3d38 3766 3832  68.vv=2Cpk=87f82
+        0x0180:  3539 3736 3430 6339 6466 3066 6335 3764  597640c9df0fc57d
+        0x0190:  3366 3535 3631 3833 6364 3230 6435 6136  3f556183cd20d5a6
+        0x01a0:  3237 6432 3164 3233 3830 6662 3634 3932  27d21d2380fb6492
+        0x01b0:  3937 3664 3636 3635 3861 3027 7069 3d62  976d66658a0'pi=b
+        0x01c0:  3038 6635 6137 392d 6462 3239 2d34 3338  08f5a79-db29-438
+        0x01d0:  342d 6234 3536 2d61 3437 3834 6439 6536  4-b456-a4784d9e6
+        0x01e0:  3035 35c0 0c00 2100 0100 0000 7800 0800  055...!.....x...
+        0x01f0:  0000 001b 58c0 43c0 0c00 1000 0100 0011  ....X.C.........
+        0x0200:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0210:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0220:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x0230:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x0240:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x0250:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x0260:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x0270:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x0280:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0290:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x02a0:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x02b0:  3239 3736 6436 3636 3538 6130            2976d66658a0
+19:32:36.086940 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 662)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 6/0/0 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0", MiraScreen D941DBFF.local. (Cache flush) A 192.168.30.243, 243.30.168.192.in-addr.arpa. (Cache flush) PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0 (634)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0296 0000 4000 ff11 b8bf c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 0282 ec3f 0000 8400 0000  .........?......
+        0x0030:  0006 0000 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 1080 0100 0011  cp.local........
+        0x0070:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0080:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0090:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x00a0:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x00b0:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x00c0:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x00d0:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x00e0:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x00f0:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0100:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x0110:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x0120:  3239 3736 6436 3636 3538 6130 134d 6972  2976d66658a0.Mir
+        0x0130:  6153 6372 6565 6e20 4439 3431 4442 4646  aScreen.D941DBFF
+        0x0140:  c038 0001 8001 0000 0078 0004 c0a8 1ef3  .8.......x......
+        0x0150:  0332 3433 0233 3003 3136 3803 3139 3207  .243.30.168.192.
+        0x0160:  696e 2d61 6464 7204 6172 7061 0000 0c80  in-addr.arpa....
+        0x0170:  0100 0000 7800 02c1 0213 4d69 7261 5363  ....x.....MiraSc
+        0x0180:  7265 656e 2044 3934 3144 4246 4608 5f61  reen.D941DBFF._a
+        0x0190:  6972 706c 6179 c033 0021 8001 0000 0078  irplay.3.!.....x
+        0x01a0:  0008 0000 0000 1b58 c102 c14f 0010 8001  .......X...O....
+        0x01b0:  0000 1194 00da 1a64 6576 6963 6569 643d  .......deviceid=
+        0x01c0:  3341 3a31 443a 4439 3a34 313a 4442 3a46  3A:1D:D9:41:DB:F
+        0x01d0:  4613 6665 6174 7572 6573 3d30 7830 4137  F.features=0x0A7
+        0x01e0:  4645 4646 3009 666c 6167 733d 3078 340f  FEFF0.flags=0x4.
+        0x01f0:  726d 6f64 656c 3d45 5a41 6972 312c 3110  rmodel=EZAir1,1.
+        0x0200:  6d6f 6465 6c3d 4170 706c 6554 5633 2c32  model=AppleTV3,2
+        0x0210:  0e73 7263 7665 7273 3d32 3230 2e36 3804  .srcvers=220.68.
+        0x0220:  7676 3d32 4370 6b3d 3837 6638 3235 3937  vv=2Cpk=87f82597
+        0x0230:  3634 3063 3964 6630 6663 3537 6433 6635  640c9df0fc57d3f5
+        0x0240:  3536 3138 3363 6432 3064 3561 3632 3764  56183cd20d5a627d
+        0x0250:  3231 6432 3338 3066 6236 3439 3239 3736  21d2380fb6492976
+        0x0260:  6436 3636 3538 6130 2770 693d 6230 3866  d66658a0'pi=b08f
+        0x0270:  3561 3739 2d64 6232 392d 3433 3834 2d62  5a79-db29-4384-b
+        0x0280:  3435 362d 6134 3738 3464 3965 3630 3535  456-a4784d9e6055
+        0x0290:  c00c 0021 8001 0000 0078 0008 0000 0000  ...!.....x......
+        0x02a0:  1b58 c102                                .X..
+19:32:36.086992 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 662)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 6/0/0 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0", MiraScreen D941DBFF.local. (Cache flush) A 192.168.30.243, 243.30.168.192.in-addr.arpa. (Cache flush) PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0 (634)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0296 0000 4000 ff11 b8bf c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 0282 ec3f 0000 8400 0000  .........?......
+        0x0030:  0006 0000 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 1080 0100 0011  cp.local........
+        0x0070:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0080:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0090:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x00a0:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x00b0:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x00c0:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x00d0:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x00e0:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x00f0:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0100:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x0110:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x0120:  3239 3736 6436 3636 3538 6130 134d 6972  2976d66658a0.Mir
+        0x0130:  6153 6372 6565 6e20 4439 3431 4442 4646  aScreen.D941DBFF
+        0x0140:  c038 0001 8001 0000 0078 0004 c0a8 1ef3  .8.......x......
+        0x0150:  0332 3433 0233 3003 3136 3803 3139 3207  .243.30.168.192.
+        0x0160:  696e 2d61 6464 7204 6172 7061 0000 0c80  in-addr.arpa....
+        0x0170:  0100 0000 7800 02c1 0213 4d69 7261 5363  ....x.....MiraSc
+        0x0180:  7265 656e 2044 3934 3144 4246 4608 5f61  reen.D941DBFF._a
+        0x0190:  6972 706c 6179 c033 0021 8001 0000 0078  irplay.3.!.....x
+        0x01a0:  0008 0000 0000 1b58 c102 c14f 0010 8001  .......X...O....
+        0x01b0:  0000 1194 00da 1a64 6576 6963 6569 643d  .......deviceid=
+        0x01c0:  3341 3a31 443a 4439 3a34 313a 4442 3a46  3A:1D:D9:41:DB:F
+        0x01d0:  4613 6665 6174 7572 6573 3d30 7830 4137  F.features=0x0A7
+        0x01e0:  4645 4646 3009 666c 6167 733d 3078 340f  FEFF0.flags=0x4.
+        0x01f0:  726d 6f64 656c 3d45 5a41 6972 312c 3110  rmodel=EZAir1,1.
+        0x0200:  6d6f 6465 6c3d 4170 706c 6554 5633 2c32  model=AppleTV3,2
+        0x0210:  0e73 7263 7665 7273 3d32 3230 2e36 3804  .srcvers=220.68.
+        0x0220:  7676 3d32 4370 6b3d 3837 6638 3235 3937  vv=2Cpk=87f82597
+        0x0230:  3634 3063 3964 6630 6663 3537 6433 6635  640c9df0fc57d3f5
+        0x0240:  3536 3138 3363 6432 3064 3561 3632 3764  56183cd20d5a627d
+        0x0250:  3231 6432 3338 3066 6236 3439 3239 3736  21d2380fb6492976
+        0x0260:  6436 3636 3538 6130 2770 693d 6230 3866  d66658a0'pi=b08f
+        0x0270:  3561 3739 2d64 6232 392d 3433 3834 2d62  5a79-db29-4384-b
+        0x0280:  3435 362d 6134 3738 3464 3965 3630 3535  456-a4784d9e6055
+        0x0290:  c00c 0021 8001 0000 0078 0008 0000 0000  ...!.....x......
+        0x02a0:  1b58 c102                                .X..
+19:32:36.087076 IP (tos 0x0, ttl 64, id 25780, offset 0, flags [DF], proto UDP (17), length 58)
+    miracast-sidescreen.loc.46543 > 192.168.30.1.domain: [udp sum ok] 12595+ A? pool.ntp.org. (30)
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  003a 64b4 4000 4011 17ba c0a8 1ef3 c0a8  .:d.@.@.........
+        0x0020:  1e01 b5cf 0035 0026 c454 3133 0100 0001  .....5.&.T13....
+        0x0030:  0000 0000 0000 0470 6f6f 6c03 6e74 7003  .......pool.ntp.
+        0x0040:  6f72 6700 0001 0001                      org.....
+19:32:36.103705 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 197)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 4/0/0 _services._dns-sd._udp.local. PTR _raop._tcp.local., _airplay._tcp.local. PTR MiraScreen D941DBFF._airplay._tcp.local., _services._dns-sd._udp.local. PTR _airplay._tcp.local., _raop._tcp.local. PTR 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (169)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c5 0000 4000 ff11 ba90 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 00b1 e066 0000 8400 0000  .........f......
+        0x0030:  0004 0000 0000 095f 7365 7276 6963 6573  ......._services
+        0x0040:  075f 646e 732d 7364 045f 7564 7005 6c6f  ._dns-sd._udp.lo
+        0x0050:  6361 6c00 000c 0001 0000 1194 000d 055f  cal............_
+        0x0060:  7261 6f70 045f 7463 70c0 2308 5f61 6972  raop._tcp.#._air
+        0x0070:  706c 6179 c03a 000c 0001 0000 1194 0016  play.:..........
+        0x0080:  134d 6972 6153 6372 6565 6e20 4439 3431  .MiraScreen.D941
+        0x0090:  4442 4646 c041 c00c 000c 0001 0000 1194  DBFF.A..........
+        0x00a0:  0002 c041 c034 000c 0001 0000 1194 0023  ...A.4.........#
+        0x00b0:  2033 4131 4444 3934 3144 4246 4640 4d69  .3A1DD941DBFF@Mi
+        0x00c0:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x00d0:  46c0 34                                  F.4
+19:32:36.103786 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 197)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 4/0/0 _services._dns-sd._udp.local. PTR _raop._tcp.local., _airplay._tcp.local. PTR MiraScreen D941DBFF._airplay._tcp.local., _services._dns-sd._udp.local. PTR _airplay._tcp.local., _raop._tcp.local. PTR 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (169)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c5 0000 4000 ff11 ba90 c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 00b1 e066 0000 8400 0000  .........f......
+        0x0030:  0004 0000 0000 095f 7365 7276 6963 6573  ......._services
+        0x0040:  075f 646e 732d 7364 045f 7564 7005 6c6f  ._dns-sd._udp.lo
+        0x0050:  6361 6c00 000c 0001 0000 1194 000d 055f  cal............_
+        0x0060:  7261 6f70 045f 7463 70c0 2308 5f61 6972  raop._tcp.#._air
+        0x0070:  706c 6179 c03a 000c 0001 0000 1194 0016  play.:..........
+        0x0080:  134d 6972 6153 6372 6565 6e20 4439 3431  .MiraScreen.D941
+        0x0090:  4442 4646 c041 c00c 000c 0001 0000 1194  DBFF.A..........
+        0x00a0:  0002 c041 c034 000c 0001 0000 1194 0023  ...A.4.........#
+        0x00b0:  2033 4131 4444 3934 3144 4246 4640 4d69  .3A1DD941DBFF@Mi
+        0x00c0:  7261 5363 7265 656e 2044 3934 3144 4246  raScreen.D941DBF
+        0x00d0:  46c0 34                                  F.4
+19:32:36.108879 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 200)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 172
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c8 0000 4000 0411 a68f c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00b4 12e8 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 706e 703a  32a4a5ead::upnp:
+        0x00a0:  726f 6f74 6465 7669 6365 0d0a 4e54 3a20  rootdevice..NT:.
+        0x00b0:  7570 6e70 3a72 6f6f 7464 6576 6963 650d  upnp:rootdevice.
+        0x00c0:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x00d0:  2030 0d0a 0d0a                           .0....
+19:32:36.108962 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 200)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 172
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c8 0000 4000 0411 a68f c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00b4 12e8 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 706e 703a  32a4a5ead::upnp:
+        0x00a0:  726f 6f74 6465 7669 6365 0d0a 4e54 3a20  rootdevice..NT:.
+        0x00b0:  7570 6e70 3a72 6f6f 7464 6576 6963 650d  upnp:rootdevice.
+        0x00c0:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x00d0:  2030 0d0a 0d0a                           .0....
+19:32:36.109066 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 209)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 181
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00d1 0000 4000 0411 a686 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00bd b8c2 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 640d 0a4e 543a 2075  32a4a5ead..NT:.u
+        0x00a0:  7569 643a 3537 6266 3762 6565 2d63 3132  uid:57bf7bee-c12
+        0x00b0:  642d 3336 6430 2d63 3661 622d 3662 3333  d-36d0-c6ab-6b33
+        0x00c0:  3261 3461 3565 6164 0d0a 436f 6e74 656e  2a4a5ead..Conten
+        0x00d0:  742d 4c65 6e67 7468 3a20 300d 0a0d 0a    t-Length:.0....
+19:32:36.109116 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 209)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 181
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00d1 0000 4000 0411 a686 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00bd b8c2 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 640d 0a4e 543a 2075  32a4a5ead..NT:.u
+        0x00a0:  7569 643a 3537 6266 3762 6565 2d63 3132  uid:57bf7bee-c12
+        0x00b0:  642d 3336 6430 2d63 3661 622d 3662 3333  d-36d0-c6ab-6b33
+        0x00c0:  3261 3461 3565 6164 0d0a 436f 6e74 656e  2a4a5ead..Conten
+        0x00d0:  742d 4c65 6e67 7468 3a20 300d 0a0d 0a    t-Length:.0....
+19:32:36.120192 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 256)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 228
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0100 0000 4000 0411 a657 c0a8 1ef3 efff  ....@....W......
+        0x0020:  fffa d714 076c 00ec fb60 4e4f 5449 4659  .....l...`NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  6465 7669 6365 3a4d 6564 6961 5265 6e64  device:MediaRend
+        0x00c0:  6572 6572 3a31 0d0a 4e54 3a20 7572 6e3a  erer:1..NT:.urn:
+        0x00d0:  7363 6865 6d61 732d 7570 6e70 2d6f 7267  schemas-upnp-org
+        0x00e0:  3a64 6576 6963 653a 4d65 6469 6152 656e  :device:MediaRen
+        0x00f0:  6465 7265 723a 310d 0a43 6f6e 7465 6e74  derer:1..Content
+        0x0100:  2d4c 656e 6774 683a 2030 0d0a 0d0a       -Length:.0....
+19:32:36.120262 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 256)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 228
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0100 0000 4000 0411 a657 c0a8 1ef3 efff  ....@....W......
+        0x0020:  fffa d714 076c 00ec fb60 4e4f 5449 4659  .....l...`NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  6465 7669 6365 3a4d 6564 6961 5265 6e64  device:MediaRend
+        0x00c0:  6572 6572 3a31 0d0a 4e54 3a20 7572 6e3a  erer:1..NT:.urn:
+        0x00d0:  7363 6865 6d61 732d 7570 6e70 2d6f 7267  schemas-upnp-org
+        0x00e0:  3a64 6576 6963 653a 4d65 6469 6152 656e  :device:MediaRen
+        0x00f0:  6465 7265 723a 310d 0a43 6f6e 7465 6e74  derer:1..Content
+        0x0100:  2d4c 656e 6774 683a 2030 0d0a 0d0a       -Length:.0....
+19:32:36.120363 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 254)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 226
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00fe 0000 4000 0411 a659 c0a8 1ef3 efff  ....@....Y......
+        0x0020:  fffa d714 076c 00ea 8044 4e4f 5449 4659  .....l...DNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00c0:  6f72 743a 310d 0a4e 543a 2075 726e 3a73  ort:1..NT:.urn:s
+        0x00d0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00e0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00f0:  6f72 743a 310d 0a43 6f6e 7465 6e74 2d4c  ort:1..Content-L
+        0x0100:  656e 6774 683a 2030 0d0a 0d0a            ength:.0....
+19:32:36.120413 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 254)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 226
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00fe 0000 4000 0411 a659 c0a8 1ef3 efff  ....@....Y......
+        0x0020:  fffa d714 076c 00ea 8044 4e4f 5449 4659  .....l...DNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00c0:  6f72 743a 310d 0a4e 543a 2075 726e 3a73  ort:1..NT:.urn:s
+        0x00d0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00e0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00f0:  6f72 743a 310d 0a43 6f6e 7465 6e74 2d4c  ort:1..Content-L
+        0x0100:  656e 6774 683a 2030 0d0a 0d0a            ength:.0....
+19:32:36.126397 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 266)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 238
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  010a 0000 4000 0411 a64d c0a8 1ef3 efff  ....@....M......
+        0x0020:  fffa d714 076c 00f6 fbdd 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 436f 6e6e 6563 7469  service:Connecti
+        0x00c0:  6f6e 4d61 6e61 6765 723a 310d 0a4e 543a  onManager:1..NT:
+        0x00d0:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x00e0:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x00f0:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0100:  310d 0a43 6f6e 7465 6e74 2d4c 656e 6774  1..Content-Lengt
+        0x0110:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.126467 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 266)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 238
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  010a 0000 4000 0411 a64d c0a8 1ef3 efff  ....@....M......
+        0x0020:  fffa d714 076c 00f6 fbdd 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 436f 6e6e 6563 7469  service:Connecti
+        0x00c0:  6f6e 4d61 6e61 6765 723a 310d 0a4e 543a  onManager:1..NT:
+        0x00d0:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x00e0:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x00f0:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0100:  310d 0a43 6f6e 7465 6e74 2d4c 656e 6774  1..Content-Lengt
+        0x0110:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.126567 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 264)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 236
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0108 0000 4000 0411 a64f c0a8 1ef3 efff  ....@....O......
+        0x0020:  fffa d714 076c 00f4 1066 4e4f 5449 4659  .....l...fNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 5265 6e64 6572 696e  service:Renderin
+        0x00c0:  6743 6f6e 7472 6f6c 3a31 0d0a 4e54 3a20  gControl:1..NT:.
+        0x00d0:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x00e0:  2d6f 7267 3a73 6572 7669 6365 3a52 656e  -org:service:Ren
+        0x00f0:  6465 7269 6e67 436f 6e74 726f 6c3a 310d  deringControl:1.
+        0x0100:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x0110:  2030 0d0a 0d0a                           .0....
+19:32:36.126617 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 264)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 236
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0108 0000 4000 0411 a64f c0a8 1ef3 efff  ....@....O......
+        0x0020:  fffa d714 076c 00f4 1066 4e4f 5449 4659  .....l...fNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 5265 6e64 6572 696e  service:Renderin
+        0x00c0:  6743 6f6e 7472 6f6c 3a31 0d0a 4e54 3a20  gControl:1..NT:.
+        0x00d0:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x00e0:  2d6f 7267 3a73 6572 7669 6365 3a52 656e  -org:service:Ren
+        0x00f0:  6465 7269 6e67 436f 6e74 726f 6c3a 310d  deringControl:1.
+        0x0100:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x0110:  2030 0d0a 0d0a                           .0....
+19:32:36.132620 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 200)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 172
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c8 0000 4000 0411 a68f c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00b4 12e8 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 706e 703a  32a4a5ead::upnp:
+        0x00a0:  726f 6f74 6465 7669 6365 0d0a 4e54 3a20  rootdevice..NT:.
+        0x00b0:  7570 6e70 3a72 6f6f 7464 6576 6963 650d  upnp:rootdevice.
+        0x00c0:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x00d0:  2030 0d0a 0d0a                           .0....
+19:32:36.132692 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 200)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 172
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00c8 0000 4000 0411 a68f c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00b4 12e8 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 706e 703a  32a4a5ead::upnp:
+        0x00a0:  726f 6f74 6465 7669 6365 0d0a 4e54 3a20  rootdevice..NT:.
+        0x00b0:  7570 6e70 3a72 6f6f 7464 6576 6963 650d  upnp:rootdevice.
+        0x00c0:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x00d0:  2030 0d0a 0d0a                           .0....
+19:32:36.132792 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 209)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 181
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00d1 0000 4000 0411 a686 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00bd b8c2 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 640d 0a4e 543a 2075  32a4a5ead..NT:.u
+        0x00a0:  7569 643a 3537 6266 3762 6565 2d63 3132  uid:57bf7bee-c12
+        0x00b0:  642d 3336 6430 2d63 3661 622d 3662 3333  d-36d0-c6ab-6b33
+        0x00c0:  3261 3461 3565 6164 0d0a 436f 6e74 656e  2a4a5ead..Conten
+        0x00d0:  742d 4c65 6e67 7468 3a20 300d 0a0d 0a    t-Length:.0....
+19:32:36.132842 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 209)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 181
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00d1 0000 4000 0411 a686 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 00bd b8c2 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 640d 0a4e 543a 2075  32a4a5ead..NT:.u
+        0x00a0:  7569 643a 3537 6266 3762 6565 2d63 3132  uid:57bf7bee-c12
+        0x00b0:  642d 3336 6430 2d63 3661 622d 3662 3333  d-36d0-c6ab-6b33
+        0x00c0:  3261 3461 3565 6164 0d0a 436f 6e74 656e  2a4a5ead..Conten
+        0x00d0:  742d 4c65 6e67 7468 3a20 300d 0a0d 0a    t-Length:.0....
+19:32:36.138958 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 256)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 228
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0100 0000 4000 0411 a657 c0a8 1ef3 efff  ....@....W......
+        0x0020:  fffa d714 076c 00ec fb60 4e4f 5449 4659  .....l...`NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  6465 7669 6365 3a4d 6564 6961 5265 6e64  device:MediaRend
+        0x00c0:  6572 6572 3a31 0d0a 4e54 3a20 7572 6e3a  erer:1..NT:.urn:
+        0x00d0:  7363 6865 6d61 732d 7570 6e70 2d6f 7267  schemas-upnp-org
+        0x00e0:  3a64 6576 6963 653a 4d65 6469 6152 656e  :device:MediaRen
+        0x00f0:  6465 7265 723a 310d 0a43 6f6e 7465 6e74  derer:1..Content
+        0x0100:  2d4c 656e 6774 683a 2030 0d0a 0d0a       -Length:.0....
+19:32:36.139028 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 256)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 228
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0100 0000 4000 0411 a657 c0a8 1ef3 efff  ....@....W......
+        0x0020:  fffa d714 076c 00ec fb60 4e4f 5449 4659  .....l...`NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  6465 7669 6365 3a4d 6564 6961 5265 6e64  device:MediaRend
+        0x00c0:  6572 6572 3a31 0d0a 4e54 3a20 7572 6e3a  erer:1..NT:.urn:
+        0x00d0:  7363 6865 6d61 732d 7570 6e70 2d6f 7267  schemas-upnp-org
+        0x00e0:  3a64 6576 6963 653a 4d65 6469 6152 656e  :device:MediaRen
+        0x00f0:  6465 7265 723a 310d 0a43 6f6e 7465 6e74  derer:1..Content
+        0x0100:  2d4c 656e 6774 683a 2030 0d0a 0d0a       -Length:.0....
+19:32:36.142301 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 254)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 226
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00fe 0000 4000 0411 a659 c0a8 1ef3 efff  ....@....Y......
+        0x0020:  fffa d714 076c 00ea 8044 4e4f 5449 4659  .....l...DNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00c0:  6f72 743a 310d 0a4e 543a 2075 726e 3a73  ort:1..NT:.urn:s
+        0x00d0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00e0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00f0:  6f72 743a 310d 0a43 6f6e 7465 6e74 2d4c  ort:1..Content-L
+        0x0100:  656e 6774 683a 2030 0d0a 0d0a            ength:.0....
+19:32:36.142372 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 254)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 226
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  00fe 0000 4000 0411 a659 c0a8 1ef3 efff  ....@....Y......
+        0x0020:  fffa d714 076c 00ea 8044 4e4f 5449 4659  .....l...DNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00c0:  6f72 743a 310d 0a4e 543a 2075 726e 3a73  ort:1..NT:.urn:s
+        0x00d0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00e0:  7365 7276 6963 653a 4156 5472 616e 7370  service:AVTransp
+        0x00f0:  6f72 743a 310d 0a43 6f6e 7465 6e74 2d4c  ort:1..Content-L
+        0x0100:  656e 6774 683a 2030 0d0a 0d0a            ength:.0....
+19:32:36.142480 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 266)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 238
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  010a 0000 4000 0411 a64d c0a8 1ef3 efff  ....@....M......
+        0x0020:  fffa d714 076c 00f6 fbdd 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 436f 6e6e 6563 7469  service:Connecti
+        0x00c0:  6f6e 4d61 6e61 6765 723a 310d 0a4e 543a  onManager:1..NT:
+        0x00d0:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x00e0:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x00f0:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0100:  310d 0a43 6f6e 7465 6e74 2d4c 656e 6774  1..Content-Lengt
+        0x0110:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.142530 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 266)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 238
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  010a 0000 4000 0411 a64d c0a8 1ef3 efff  ....@....M......
+        0x0020:  fffa d714 076c 00f6 fbdd 4e4f 5449 4659  .....l....NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 436f 6e6e 6563 7469  service:Connecti
+        0x00c0:  6f6e 4d61 6e61 6765 723a 310d 0a4e 543a  onManager:1..NT:
+        0x00d0:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x00e0:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x00f0:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0100:  310d 0a43 6f6e 7465 6e74 2d4c 656e 6774  1..Content-Lengt
+        0x0110:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.148829 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 264)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 236
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0108 0000 4000 0411 a64f c0a8 1ef3 efff  ....@....O......
+        0x0020:  fffa d714 076c 00f4 1066 4e4f 5449 4659  .....l...fNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 5265 6e64 6572 696e  service:Renderin
+        0x00c0:  6743 6f6e 7472 6f6c 3a31 0d0a 4e54 3a20  gControl:1..NT:.
+        0x00d0:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x00e0:  2d6f 7267 3a73 6572 7669 6365 3a52 656e  -org:service:Ren
+        0x00f0:  6465 7269 6e67 436f 6e74 726f 6c3a 310d  deringControl:1.
+        0x0100:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x0110:  2030 0d0a 0d0a                           .0....
+19:32:36.148902 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 264)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 236
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0108 0000 4000 0411 a64f c0a8 1ef3 efff  ....@....O......
+        0x0020:  fffa d714 076c 00f4 1066 4e4f 5449 4659  .....l...fNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a48 4f53  .*.HTTP/1.1..HOS
+        0x0040:  543a 2032 3339 2e32 3535 2e32 3535 2e32  T:.239.255.255.2
+        0x0050:  3530 3a31 3930 300d 0a4e 5453 3a20 7373  50:1900..NTS:.ss
+        0x0060:  6470 3a62 7965 6279 650d 0a55 534e 3a20  dp:byebye..USN:.
+        0x0070:  7575 6964 3a35 3762 6637 6265 652d 6331  uuid:57bf7bee-c1
+        0x0080:  3264 2d33 3664 302d 6336 6162 2d36 6233  2d-36d0-c6ab-6b3
+        0x0090:  3332 6134 6135 6561 643a 3a75 726e 3a73  32a4a5ead::urn:s
+        0x00a0:  6368 656d 6173 2d75 706e 702d 6f72 673a  chemas-upnp-org:
+        0x00b0:  7365 7276 6963 653a 5265 6e64 6572 696e  service:Renderin
+        0x00c0:  6743 6f6e 7472 6f6c 3a31 0d0a 4e54 3a20  gControl:1..NT:.
+        0x00d0:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x00e0:  2d6f 7267 3a73 6572 7669 6365 3a52 656e  -org:service:Ren
+        0x00f0:  6465 7269 6e67 436f 6e74 726f 6c3a 310d  deringControl:1.
+        0x0100:  0a43 6f6e 7465 6e74 2d4c 656e 6774 683a  .Content-Length:
+        0x0110:  2030 0d0a 0d0a                           .0....
+19:32:36.149009 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 662)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 6/0/0 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0", MiraScreen D941DBFF.local. (Cache flush) A 192.168.30.243, 243.30.168.192.in-addr.arpa. (Cache flush) PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0 (634)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0296 0000 4000 ff11 b8bf c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 0282 ec3f 0000 8400 0000  .........?......
+        0x0030:  0006 0000 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 1080 0100 0011  cp.local........
+        0x0070:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0080:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0090:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x00a0:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x00b0:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x00c0:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x00d0:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x00e0:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x00f0:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0100:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x0110:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x0120:  3239 3736 6436 3636 3538 6130 134d 6972  2976d66658a0.Mir
+        0x0130:  6153 6372 6565 6e20 4439 3431 4442 4646  aScreen.D941DBFF
+        0x0140:  c038 0001 8001 0000 0078 0004 c0a8 1ef3  .8.......x......
+        0x0150:  0332 3433 0233 3003 3136 3803 3139 3207  .243.30.168.192.
+        0x0160:  696e 2d61 6464 7204 6172 7061 0000 0c80  in-addr.arpa....
+        0x0170:  0100 0000 7800 02c1 0213 4d69 7261 5363  ....x.....MiraSc
+        0x0180:  7265 656e 2044 3934 3144 4246 4608 5f61  reen.D941DBFF._a
+        0x0190:  6972 706c 6179 c033 0021 8001 0000 0078  irplay.3.!.....x
+        0x01a0:  0008 0000 0000 1b58 c102 c14f 0010 8001  .......X...O....
+        0x01b0:  0000 1194 00da 1a64 6576 6963 6569 643d  .......deviceid=
+        0x01c0:  3341 3a31 443a 4439 3a34 313a 4442 3a46  3A:1D:D9:41:DB:F
+        0x01d0:  4613 6665 6174 7572 6573 3d30 7830 4137  F.features=0x0A7
+        0x01e0:  4645 4646 3009 666c 6167 733d 3078 340f  FEFF0.flags=0x4.
+        0x01f0:  726d 6f64 656c 3d45 5a41 6972 312c 3110  rmodel=EZAir1,1.
+        0x0200:  6d6f 6465 6c3d 4170 706c 6554 5633 2c32  model=AppleTV3,2
+        0x0210:  0e73 7263 7665 7273 3d32 3230 2e36 3804  .srcvers=220.68.
+        0x0220:  7676 3d32 4370 6b3d 3837 6638 3235 3937  vv=2Cpk=87f82597
+        0x0230:  3634 3063 3964 6630 6663 3537 6433 6635  640c9df0fc57d3f5
+        0x0240:  3536 3138 3363 6432 3064 3561 3632 3764  56183cd20d5a627d
+        0x0250:  3231 6432 3338 3066 6236 3439 3239 3736  21d2380fb6492976
+        0x0260:  6436 3636 3538 6130 2770 693d 6230 3866  d66658a0'pi=b08f
+        0x0270:  3561 3739 2d64 6232 392d 3433 3834 2d62  5a79-db29-4384-b
+        0x0280:  3435 362d 6134 3738 3464 3965 3630 3535  456-a4784d9e6055
+        0x0290:  c00c 0021 8001 0000 0078 0008 0000 0000  ...!.....x......
+        0x02a0:  1b58 c102                                .X..
+19:32:36.149062 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 662)
+    miracast-sidescreen.loc.mdns > 224.0.0.251.mdns: [udp sum ok] 0*- [0q] 6/0/0 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) TXT "cn=0,1,3" "da=true" "et=0,3,5" "ft=0x0A7FEFF0" "md=0,1,2" "tp=UDP" "vn=65537" "vs=220.68" "rmodel=EZAir1,1" "am=AppleTV3,2" "vv=2" "sf=0x4" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0", MiraScreen D941DBFF.local. (Cache flush) A 192.168.30.243, 243.30.168.192.in-addr.arpa. (Cache flush) PTR MiraScreen D941DBFF.local., MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0, MiraScreen D941DBFF._airplay._tcp.local. (Cache flush) TXT "deviceid=3A:1D:D9:41:DB:FF" "features=0x0A7FEFF0" "flags=0x4" "rmodel=EZAir1,1" "model=AppleTV3,2" "srcvers=220.68" "vv=2" "pk=87f82597640c9df0fc57d3f556183cd20d5a627d21d2380fb6492976d66658a0" "pi=b08f5a79-db29-4384-b456-a4784d9e6055", 3A1DD941DBFF@MiraScreen D941DBFF._raop._tcp.local. (Cache flush) SRV MiraScreen D941DBFF.local.:7000 0 0 (634)
+        0x0000:  0100 5e00 00fb 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0296 0000 4000 ff11 b8bf c0a8 1ef3 e000  ....@...........
+        0x0020:  00fb 14e9 14e9 0282 ec3f 0000 8400 0000  .........?......
+        0x0030:  0006 0000 0000 2033 4131 4444 3934 3144  .......3A1DD941D
+        0x0040:  4246 4640 4d69 7261 5363 7265 656e 2044  BFF@MiraScreen.D
+        0x0050:  3934 3144 4246 4605 5f72 616f 7004 5f74  941DBFF._raop._t
+        0x0060:  6370 056c 6f63 616c 0000 1080 0100 0011  cp.local........
+        0x0070:  9400 b908 636e 3d30 2c31 2c33 0764 613d  ....cn=0,1,3.da=
+        0x0080:  7472 7565 0865 743d 302c 332c 350d 6674  true.et=0,3,5.ft
+        0x0090:  3d30 7830 4137 4645 4646 3008 6d64 3d30  =0x0A7FEFF0.md=0
+        0x00a0:  2c31 2c32 0674 703d 5544 5008 766e 3d36  ,1,2.tp=UDP.vn=6
+        0x00b0:  3535 3337 0976 733d 3232 302e 3638 0f72  5537.vs=220.68.r
+        0x00c0:  6d6f 6465 6c3d 455a 4169 7231 2c31 0d61  model=EZAir1,1.a
+        0x00d0:  6d3d 4170 706c 6554 5633 2c32 0476 763d  m=AppleTV3,2.vv=
+        0x00e0:  3206 7366 3d30 7834 4370 6b3d 3837 6638  2.sf=0x4Cpk=87f8
+        0x00f0:  3235 3937 3634 3063 3964 6630 6663 3537  2597640c9df0fc57
+        0x0100:  6433 6635 3536 3138 3363 6432 3064 3561  d3f556183cd20d5a
+        0x0110:  3632 3764 3231 6432 3338 3066 6236 3439  627d21d2380fb649
+        0x0120:  3239 3736 6436 3636 3538 6130 134d 6972  2976d66658a0.Mir
+        0x0130:  6153 6372 6565 6e20 4439 3431 4442 4646  aScreen.D941DBFF
+        0x0140:  c038 0001 8001 0000 0078 0004 c0a8 1ef3  .8.......x......
+        0x0150:  0332 3433 0233 3003 3136 3803 3139 3207  .243.30.168.192.
+        0x0160:  696e 2d61 6464 7204 6172 7061 0000 0c80  in-addr.arpa....
+        0x0170:  0100 0000 7800 02c1 0213 4d69 7261 5363  ....x.....MiraSc
+        0x0180:  7265 656e 2044 3934 3144 4246 4608 5f61  reen.D941DBFF._a
+        0x0190:  6972 706c 6179 c033 0021 8001 0000 0078  irplay.3.!.....x
+        0x01a0:  0008 0000 0000 1b58 c102 c14f 0010 8001  .......X...O....
+        0x01b0:  0000 1194 00da 1a64 6576 6963 6569 643d  .......deviceid=
+        0x01c0:  3341 3a31 443a 4439 3a34 313a 4442 3a46  3A:1D:D9:41:DB:F
+        0x01d0:  4613 6665 6174 7572 6573 3d30 7830 4137  F.features=0x0A7
+        0x01e0:  4645 4646 3009 666c 6167 733d 3078 340f  FEFF0.flags=0x4.
+        0x01f0:  726d 6f64 656c 3d45 5a41 6972 312c 3110  rmodel=EZAir1,1.
+        0x0200:  6d6f 6465 6c3d 4170 706c 6554 5633 2c32  model=AppleTV3,2
+        0x0210:  0e73 7263 7665 7273 3d32 3230 2e36 3804  .srcvers=220.68.
+        0x0220:  7676 3d32 4370 6b3d 3837 6638 3235 3937  vv=2Cpk=87f82597
+        0x0230:  3634 3063 3964 6630 6663 3537 6433 6635  640c9df0fc57d3f5
+        0x0240:  3536 3138 3363 6432 3064 3561 3632 3764  56183cd20d5a627d
+        0x0250:  3231 6432 3338 3066 6236 3439 3239 3736  21d2380fb6492976
+        0x0260:  6436 3636 3538 6130 2770 693d 6230 3866  d66658a0'pi=b08f
+        0x0270:  3561 3739 2d64 6232 392d 3433 3834 2d62  5a79-db29-4384-b
+        0x0280:  3435 362d 6134 3738 3464 3965 3630 3535  456-a4784d9e6055
+        0x0290:  c00c 0021 8001 0000 0078 0008 0000 0000  ...!.....x......
+        0x02a0:  1b58 c102                                .X..
+19:32:36.149157 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 324)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 296
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0144 0000 4000 0411 a613 c0a8 1ef3 efff  .D..@...........
+        0x0020:  fffa d714 076c 0130 7b9d 4e4f 5449 4659  .....l.0{.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 706e 703a 726f 6f74 6465 7669 6365  .upnp:rootdevice
+        0x0050:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0060:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0070:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x0080:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x0090:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00a0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00b0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00c0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00d0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x00e0:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x00f0:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0100:  6164 3a3a 7570 6e70 3a72 6f6f 7464 6576  ad::upnp:rootdev
+        0x0110:  6963 650d 0a4c 4f43 4154 494f 4e3a 2068  ice..LOCATION:.h
+        0x0120:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0130:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0140:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0150:  0d0a                                     ..
+19:32:36.149207 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 324)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 296
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0144 0000 4000 0411 a613 c0a8 1ef3 efff  .D..@...........
+        0x0020:  fffa d714 076c 0130 7b9d 4e4f 5449 4659  .....l.0{.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 706e 703a 726f 6f74 6465 7669 6365  .upnp:rootdevice
+        0x0050:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0060:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0070:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x0080:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x0090:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00a0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00b0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00c0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00d0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x00e0:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x00f0:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0100:  6164 3a3a 7570 6e70 3a72 6f6f 7464 6576  ad::upnp:rootdev
+        0x0110:  6963 650d 0a4c 4f43 4154 494f 4e3a 2068  ice..LOCATION:.h
+        0x0120:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0130:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0140:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0150:  0d0a                                     ..
+19:32:36.149295 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 324)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 296
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0144 0000 4000 0411 a613 c0a8 1ef3 efff  .D..@...........
+        0x0020:  fffa d714 076c 0130 7b9d 4e4f 5449 4659  .....l.0{.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 706e 703a 726f 6f74 6465 7669 6365  .upnp:rootdevice
+        0x0050:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0060:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0070:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x0080:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x0090:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00a0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00b0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00c0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00d0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x00e0:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x00f0:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0100:  6164 3a3a 7570 6e70 3a72 6f6f 7464 6576  ad::upnp:rootdev
+        0x0110:  6963 650d 0a4c 4f43 4154 494f 4e3a 2068  ice..LOCATION:.h
+        0x0120:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0130:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0140:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0150:  0d0a                                     ..
+19:32:36.149346 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 324)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 296
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0144 0000 4000 0411 a613 c0a8 1ef3 efff  .D..@...........
+        0x0020:  fffa d714 076c 0130 7b9d 4e4f 5449 4659  .....l.0{.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 706e 703a 726f 6f74 6465 7669 6365  .upnp:rootdevice
+        0x0050:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0060:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0070:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x0080:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x0090:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00a0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00b0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00c0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00d0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x00e0:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x00f0:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0100:  6164 3a3a 7570 6e70 3a72 6f6f 7464 6576  ad::upnp:rootdev
+        0x0110:  6963 650d 0a4c 4f43 4154 494f 4e3a 2068  ice..LOCATION:.h
+        0x0120:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0130:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0140:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0150:  0d0a                                     ..
+19:32:36.165621 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 378)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 350
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017a 0000 4000 0411 a5dd c0a8 1ef3 efff  .z..@...........
+        0x0020:  fffa d714 076c 0166 38aa 4e4f 5449 4659  .....l.f8.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 4156  p-org:service:AV
+        0x0060:  5472 616e 7370 6f72 743a 310d 0a43 4143  Transport:1..CAC
+        0x0070:  4845 2d43 4f4e 5452 4f4c 3a20 6d61 782d  HE-CONTROL:.max-
+        0x0080:  6167 653d 3138 3030 0d0a 484f 5354 3a20  age=1800..HOST:.
+        0x0090:  3233 392e 3235 352e 3235 352e 3235 303a  239.255.255.250:
+        0x00a0:  3139 3030 0d0a 4e54 533a 2073 7364 703a  1900..NTS:.ssdp:
+        0x00b0:  616c 6976 650d 0a53 4552 5645 523a 2050  alive..SERVER:.P
+        0x00c0:  4f53 4958 2f32 2e36 2c20 5550 6e50 2f31  OSIX/2.6,.UPnP/1
+        0x00d0:  2e30 2c20 496e 7465 6c20 4d69 6372 6f53  .0,.Intel.MicroS
+        0x00e0:  7461 636b 2f31 2e30 2e32 3737 370d 0a55  tack/1.0.2777..U
+        0x00f0:  534e 3a20 7575 6964 3a35 3762 6637 6265  SN:.uuid:57bf7be
+        0x0100:  652d 6331 3264 2d33 3664 302d 6336 6162  e-c12d-36d0-c6ab
+        0x0110:  2d36 6233 3332 6134 6135 6561 643a 3a75  -6b332a4a5ead::u
+        0x0120:  726e 3a73 6368 656d 6173 2d75 706e 702d  rn:schemas-upnp-
+        0x0130:  6f72 673a 7365 7276 6963 653a 4156 5472  org:service:AVTr
+        0x0140:  616e 7370 6f72 743a 310d 0a4c 4f43 4154  ansport:1..LOCAT
+        0x0150:  494f 4e3a 2068 7474 703a 2f2f 3139 322e  ION:.http://192.
+        0x0160:  3136 382e 3330 2e32 3433 3a35 3935 3335  168.30.243:59535
+        0x0170:  2f0d 0a43 6f6e 7465 6e74 2d4c 656e 6774  /..Content-Lengt
+        0x0180:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.165696 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 378)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 350
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017a 0000 4000 0411 a5dd c0a8 1ef3 efff  .z..@...........
+        0x0020:  fffa d714 076c 0166 38aa 4e4f 5449 4659  .....l.f8.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 4156  p-org:service:AV
+        0x0060:  5472 616e 7370 6f72 743a 310d 0a43 4143  Transport:1..CAC
+        0x0070:  4845 2d43 4f4e 5452 4f4c 3a20 6d61 782d  HE-CONTROL:.max-
+        0x0080:  6167 653d 3138 3030 0d0a 484f 5354 3a20  age=1800..HOST:.
+        0x0090:  3233 392e 3235 352e 3235 352e 3235 303a  239.255.255.250:
+        0x00a0:  3139 3030 0d0a 4e54 533a 2073 7364 703a  1900..NTS:.ssdp:
+        0x00b0:  616c 6976 650d 0a53 4552 5645 523a 2050  alive..SERVER:.P
+        0x00c0:  4f53 4958 2f32 2e36 2c20 5550 6e50 2f31  OSIX/2.6,.UPnP/1
+        0x00d0:  2e30 2c20 496e 7465 6c20 4d69 6372 6f53  .0,.Intel.MicroS
+        0x00e0:  7461 636b 2f31 2e30 2e32 3737 370d 0a55  tack/1.0.2777..U
+        0x00f0:  534e 3a20 7575 6964 3a35 3762 6637 6265  SN:.uuid:57bf7be
+        0x0100:  652d 6331 3264 2d33 3664 302d 6336 6162  e-c12d-36d0-c6ab
+        0x0110:  2d36 6233 3332 6134 6135 6561 643a 3a75  -6b332a4a5ead::u
+        0x0120:  726e 3a73 6368 656d 6173 2d75 706e 702d  rn:schemas-upnp-
+        0x0130:  6f72 673a 7365 7276 6963 653a 4156 5472  org:service:AVTr
+        0x0140:  616e 7370 6f72 743a 310d 0a4c 4f43 4154  ansport:1..LOCAT
+        0x0150:  494f 4e3a 2068 7474 703a 2f2f 3139 322e  ION:.http://192.
+        0x0160:  3136 382e 3330 2e32 3433 3a35 3935 3335  168.30.243:59535
+        0x0170:  2f0d 0a43 6f6e 7465 6e74 2d4c 656e 6774  /..Content-Lengt
+        0x0180:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.165799 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 378)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 350
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017a 0000 4000 0411 a5dd c0a8 1ef3 efff  .z..@...........
+        0x0020:  fffa d714 076c 0166 38aa 4e4f 5449 4659  .....l.f8.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 4156  p-org:service:AV
+        0x0060:  5472 616e 7370 6f72 743a 310d 0a43 4143  Transport:1..CAC
+        0x0070:  4845 2d43 4f4e 5452 4f4c 3a20 6d61 782d  HE-CONTROL:.max-
+        0x0080:  6167 653d 3138 3030 0d0a 484f 5354 3a20  age=1800..HOST:.
+        0x0090:  3233 392e 3235 352e 3235 352e 3235 303a  239.255.255.250:
+        0x00a0:  3139 3030 0d0a 4e54 533a 2073 7364 703a  1900..NTS:.ssdp:
+        0x00b0:  616c 6976 650d 0a53 4552 5645 523a 2050  alive..SERVER:.P
+        0x00c0:  4f53 4958 2f32 2e36 2c20 5550 6e50 2f31  OSIX/2.6,.UPnP/1
+        0x00d0:  2e30 2c20 496e 7465 6c20 4d69 6372 6f53  .0,.Intel.MicroS
+        0x00e0:  7461 636b 2f31 2e30 2e32 3737 370d 0a55  tack/1.0.2777..U
+        0x00f0:  534e 3a20 7575 6964 3a35 3762 6637 6265  SN:.uuid:57bf7be
+        0x0100:  652d 6331 3264 2d33 3664 302d 6336 6162  e-c12d-36d0-c6ab
+        0x0110:  2d36 6233 3332 6134 6135 6561 643a 3a75  -6b332a4a5ead::u
+        0x0120:  726e 3a73 6368 656d 6173 2d75 706e 702d  rn:schemas-upnp-
+        0x0130:  6f72 673a 7365 7276 6963 653a 4156 5472  org:service:AVTr
+        0x0140:  616e 7370 6f72 743a 310d 0a4c 4f43 4154  ansport:1..LOCAT
+        0x0150:  494f 4e3a 2068 7474 703a 2f2f 3139 322e  ION:.http://192.
+        0x0160:  3136 382e 3330 2e32 3433 3a35 3935 3335  168.30.243:59535
+        0x0170:  2f0d 0a43 6f6e 7465 6e74 2d4c 656e 6774  /..Content-Lengt
+        0x0180:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.165848 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 378)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 350
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017a 0000 4000 0411 a5dd c0a8 1ef3 efff  .z..@...........
+        0x0020:  fffa d714 076c 0166 38aa 4e4f 5449 4659  .....l.f8.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 4156  p-org:service:AV
+        0x0060:  5472 616e 7370 6f72 743a 310d 0a43 4143  Transport:1..CAC
+        0x0070:  4845 2d43 4f4e 5452 4f4c 3a20 6d61 782d  HE-CONTROL:.max-
+        0x0080:  6167 653d 3138 3030 0d0a 484f 5354 3a20  age=1800..HOST:.
+        0x0090:  3233 392e 3235 352e 3235 352e 3235 303a  239.255.255.250:
+        0x00a0:  3139 3030 0d0a 4e54 533a 2073 7364 703a  1900..NTS:.ssdp:
+        0x00b0:  616c 6976 650d 0a53 4552 5645 523a 2050  alive..SERVER:.P
+        0x00c0:  4f53 4958 2f32 2e36 2c20 5550 6e50 2f31  OSIX/2.6,.UPnP/1
+        0x00d0:  2e30 2c20 496e 7465 6c20 4d69 6372 6f53  .0,.Intel.MicroS
+        0x00e0:  7461 636b 2f31 2e30 2e32 3737 370d 0a55  tack/1.0.2777..U
+        0x00f0:  534e 3a20 7575 6964 3a35 3762 6637 6265  SN:.uuid:57bf7be
+        0x0100:  652d 6331 3264 2d33 3664 302d 6336 6162  e-c12d-36d0-c6ab
+        0x0110:  2d36 6233 3332 6134 6135 6561 643a 3a75  -6b332a4a5ead::u
+        0x0120:  726e 3a73 6368 656d 6173 2d75 706e 702d  rn:schemas-upnp-
+        0x0130:  6f72 673a 7365 7276 6963 653a 4156 5472  org:service:AVTr
+        0x0140:  616e 7370 6f72 743a 310d 0a4c 4f43 4154  ansport:1..LOCAT
+        0x0150:  494f 4e3a 2068 7474 703a 2f2f 3139 322e  ION:.http://192.
+        0x0160:  3136 382e 3330 2e32 3433 3a35 3935 3335  168.30.243:59535
+        0x0170:  2f0d 0a43 6f6e 7465 6e74 2d4c 656e 6774  /..Content-Lengt
+        0x0180:  683a 2030 0d0a 0d0a                      h:.0....
+19:32:36.173933 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 390)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 362
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0186 0000 4000 0411 a5d1 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0172 b443 4e4f 5449 4659  .....l.r.CNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x0060:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0070:  310d 0a43 4143 4845 2d43 4f4e 5452 4f4c  1..CACHE-CONTROL
+        0x0080:  3a20 6d61 782d 6167 653d 3138 3030 0d0a  :.max-age=1800..
+        0x0090:  484f 5354 3a20 3233 392e 3235 352e 3235  HOST:.239.255.25
+        0x00a0:  352e 3235 303a 3139 3030 0d0a 4e54 533a  5.250:1900..NTS:
+        0x00b0:  2073 7364 703a 616c 6976 650d 0a53 4552  .ssdp:alive..SER
+        0x00c0:  5645 523a 2050 4f53 4958 2f32 2e36 2c20  VER:.POSIX/2.6,.
+        0x00d0:  5550 6e50 2f31 2e30 2c20 496e 7465 6c20  UPnP/1.0,.Intel.
+        0x00e0:  4d69 6372 6f53 7461 636b 2f31 2e30 2e32  MicroStack/1.0.2
+        0x00f0:  3737 370d 0a55 534e 3a20 7575 6964 3a35  777..USN:.uuid:5
+        0x0100:  3762 6637 6265 652d 6331 3264 2d33 3664  7bf7bee-c12d-36d
+        0x0110:  302d 6336 6162 2d36 6233 3332 6134 6135  0-c6ab-6b332a4a5
+        0x0120:  6561 643a 3a75 726e 3a73 6368 656d 6173  ead::urn:schemas
+        0x0130:  2d75 706e 702d 6f72 673a 7365 7276 6963  -upnp-org:servic
+        0x0140:  653a 436f 6e6e 6563 7469 6f6e 4d61 6e61  e:ConnectionMana
+        0x0150:  6765 723a 310d 0a4c 4f43 4154 494f 4e3a  ger:1..LOCATION:
+        0x0160:  2068 7474 703a 2f2f 3139 322e 3136 382e  .http://192.168.
+        0x0170:  3330 2e32 3433 3a35 3935 3335 2f0d 0a43  30.243:59535/..C
+        0x0180:  6f6e 7465 6e74 2d4c 656e 6774 683a 2030  ontent-Length:.0
+        0x0190:  0d0a 0d0a                                ....
+19:32:36.174008 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 390)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 362
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0186 0000 4000 0411 a5d1 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0172 b443 4e4f 5449 4659  .....l.r.CNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x0060:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0070:  310d 0a43 4143 4845 2d43 4f4e 5452 4f4c  1..CACHE-CONTROL
+        0x0080:  3a20 6d61 782d 6167 653d 3138 3030 0d0a  :.max-age=1800..
+        0x0090:  484f 5354 3a20 3233 392e 3235 352e 3235  HOST:.239.255.25
+        0x00a0:  352e 3235 303a 3139 3030 0d0a 4e54 533a  5.250:1900..NTS:
+        0x00b0:  2073 7364 703a 616c 6976 650d 0a53 4552  .ssdp:alive..SER
+        0x00c0:  5645 523a 2050 4f53 4958 2f32 2e36 2c20  VER:.POSIX/2.6,.
+        0x00d0:  5550 6e50 2f31 2e30 2c20 496e 7465 6c20  UPnP/1.0,.Intel.
+        0x00e0:  4d69 6372 6f53 7461 636b 2f31 2e30 2e32  MicroStack/1.0.2
+        0x00f0:  3737 370d 0a55 534e 3a20 7575 6964 3a35  777..USN:.uuid:5
+        0x0100:  3762 6637 6265 652d 6331 3264 2d33 3664  7bf7bee-c12d-36d
+        0x0110:  302d 6336 6162 2d36 6233 3332 6134 6135  0-c6ab-6b332a4a5
+        0x0120:  6561 643a 3a75 726e 3a73 6368 656d 6173  ead::urn:schemas
+        0x0130:  2d75 706e 702d 6f72 673a 7365 7276 6963  -upnp-org:servic
+        0x0140:  653a 436f 6e6e 6563 7469 6f6e 4d61 6e61  e:ConnectionMana
+        0x0150:  6765 723a 310d 0a4c 4f43 4154 494f 4e3a  ger:1..LOCATION:
+        0x0160:  2068 7474 703a 2f2f 3139 322e 3136 382e  .http://192.168.
+        0x0170:  3330 2e32 3433 3a35 3935 3335 2f0d 0a43  30.243:59535/..C
+        0x0180:  6f6e 7465 6e74 2d4c 656e 6774 683a 2030  ontent-Length:.0
+        0x0190:  0d0a 0d0a                                ....
+19:32:36.174113 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 390)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 362
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0186 0000 4000 0411 a5d1 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0172 b443 4e4f 5449 4659  .....l.r.CNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x0060:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0070:  310d 0a43 4143 4845 2d43 4f4e 5452 4f4c  1..CACHE-CONTROL
+        0x0080:  3a20 6d61 782d 6167 653d 3138 3030 0d0a  :.max-age=1800..
+        0x0090:  484f 5354 3a20 3233 392e 3235 352e 3235  HOST:.239.255.25
+        0x00a0:  352e 3235 303a 3139 3030 0d0a 4e54 533a  5.250:1900..NTS:
+        0x00b0:  2073 7364 703a 616c 6976 650d 0a53 4552  .ssdp:alive..SER
+        0x00c0:  5645 523a 2050 4f53 4958 2f32 2e36 2c20  VER:.POSIX/2.6,.
+        0x00d0:  5550 6e50 2f31 2e30 2c20 496e 7465 6c20  UPnP/1.0,.Intel.
+        0x00e0:  4d69 6372 6f53 7461 636b 2f31 2e30 2e32  MicroStack/1.0.2
+        0x00f0:  3737 370d 0a55 534e 3a20 7575 6964 3a35  777..USN:.uuid:5
+        0x0100:  3762 6637 6265 652d 6331 3264 2d33 3664  7bf7bee-c12d-36d
+        0x0110:  302d 6336 6162 2d36 6233 3332 6134 6135  0-c6ab-6b332a4a5
+        0x0120:  6561 643a 3a75 726e 3a73 6368 656d 6173  ead::urn:schemas
+        0x0130:  2d75 706e 702d 6f72 673a 7365 7276 6963  -upnp-org:servic
+        0x0140:  653a 436f 6e6e 6563 7469 6f6e 4d61 6e61  e:ConnectionMana
+        0x0150:  6765 723a 310d 0a4c 4f43 4154 494f 4e3a  ger:1..LOCATION:
+        0x0160:  2068 7474 703a 2f2f 3139 322e 3136 382e  .http://192.168.
+        0x0170:  3330 2e32 3433 3a35 3935 3335 2f0d 0a43  30.243:59535/..C
+        0x0180:  6f6e 7465 6e74 2d4c 656e 6774 683a 2030  ontent-Length:.0
+        0x0190:  0d0a 0d0a                                ....
+19:32:36.174164 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 390)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 362
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0186 0000 4000 0411 a5d1 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0172 b443 4e4f 5449 4659  .....l.r.CNOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 436f  p-org:service:Co
+        0x0060:  6e6e 6563 7469 6f6e 4d61 6e61 6765 723a  nnectionManager:
+        0x0070:  310d 0a43 4143 4845 2d43 4f4e 5452 4f4c  1..CACHE-CONTROL
+        0x0080:  3a20 6d61 782d 6167 653d 3138 3030 0d0a  :.max-age=1800..
+        0x0090:  484f 5354 3a20 3233 392e 3235 352e 3235  HOST:.239.255.25
+        0x00a0:  352e 3235 303a 3139 3030 0d0a 4e54 533a  5.250:1900..NTS:
+        0x00b0:  2073 7364 703a 616c 6976 650d 0a53 4552  .ssdp:alive..SER
+        0x00c0:  5645 523a 2050 4f53 4958 2f32 2e36 2c20  VER:.POSIX/2.6,.
+        0x00d0:  5550 6e50 2f31 2e30 2c20 496e 7465 6c20  UPnP/1.0,.Intel.
+        0x00e0:  4d69 6372 6f53 7461 636b 2f31 2e30 2e32  MicroStack/1.0.2
+        0x00f0:  3737 370d 0a55 534e 3a20 7575 6964 3a35  777..USN:.uuid:5
+        0x0100:  3762 6637 6265 652d 6331 3264 2d33 3664  7bf7bee-c12d-36d
+        0x0110:  302d 6336 6162 2d36 6233 3332 6134 6135  0-c6ab-6b332a4a5
+        0x0120:  6561 643a 3a75 726e 3a73 6368 656d 6173  ead::urn:schemas
+        0x0130:  2d75 706e 702d 6f72 673a 7365 7276 6963  -upnp-org:servic
+        0x0140:  653a 436f 6e6e 6563 7469 6f6e 4d61 6e61  e:ConnectionMana
+        0x0150:  6765 723a 310d 0a4c 4f43 4154 494f 4e3a  ger:1..LOCATION:
+        0x0160:  2068 7474 703a 2f2f 3139 322e 3136 382e  .http://192.168.
+        0x0170:  3330 2e32 3433 3a35 3935 3335 2f0d 0a43  30.243:59535/..C
+        0x0180:  6f6e 7465 6e74 2d4c 656e 6774 683a 2030  ontent-Length:.0
+        0x0190:  0d0a 0d0a                                ....
+19:32:36.174253 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 388)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 360
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0184 0000 4000 0411 a5d3 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0170 791b 4e4f 5449 4659  .....l.py.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 5265  p-org:service:Re
+        0x0060:  6e64 6572 696e 6743 6f6e 7472 6f6c 3a31  nderingControl:1
+        0x0070:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0080:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0090:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x00a0:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x00b0:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00c0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00d0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00e0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00f0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x0100:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x0110:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0120:  6164 3a3a 7572 6e3a 7363 6865 6d61 732d  ad::urn:schemas-
+        0x0130:  7570 6e70 2d6f 7267 3a73 6572 7669 6365  upnp-org:service
+        0x0140:  3a52 656e 6465 7269 6e67 436f 6e74 726f  :RenderingContro
+        0x0150:  6c3a 310d 0a4c 4f43 4154 494f 4e3a 2068  l:1..LOCATION:.h
+        0x0160:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0170:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0180:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0190:  0d0a                                     ..
+19:32:36.174301 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 388)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 360
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0184 0000 4000 0411 a5d3 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0170 791b 4e4f 5449 4659  .....l.py.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 5265  p-org:service:Re
+        0x0060:  6e64 6572 696e 6743 6f6e 7472 6f6c 3a31  nderingControl:1
+        0x0070:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0080:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0090:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x00a0:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x00b0:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00c0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00d0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00e0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00f0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x0100:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x0110:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0120:  6164 3a3a 7572 6e3a 7363 6865 6d61 732d  ad::urn:schemas-
+        0x0130:  7570 6e70 2d6f 7267 3a73 6572 7669 6365  upnp-org:service
+        0x0140:  3a52 656e 6465 7269 6e67 436f 6e74 726f  :RenderingContro
+        0x0150:  6c3a 310d 0a4c 4f43 4154 494f 4e3a 2068  l:1..LOCATION:.h
+        0x0160:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0170:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0180:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0190:  0d0a                                     ..
+19:32:36.186523 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 388)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 360
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0184 0000 4000 0411 a5d3 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0170 791b 4e4f 5449 4659  .....l.py.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 5265  p-org:service:Re
+        0x0060:  6e64 6572 696e 6743 6f6e 7472 6f6c 3a31  nderingControl:1
+        0x0070:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0080:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0090:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x00a0:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x00b0:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00c0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00d0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00e0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00f0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x0100:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x0110:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0120:  6164 3a3a 7572 6e3a 7363 6865 6d61 732d  ad::urn:schemas-
+        0x0130:  7570 6e70 2d6f 7267 3a73 6572 7669 6365  upnp-org:service
+        0x0140:  3a52 656e 6465 7269 6e67 436f 6e74 726f  :RenderingContro
+        0x0150:  6c3a 310d 0a4c 4f43 4154 494f 4e3a 2068  l:1..LOCATION:.h
+        0x0160:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0170:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0180:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0190:  0d0a                                     ..
+19:32:36.186597 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 388)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 360
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  0184 0000 4000 0411 a5d3 c0a8 1ef3 efff  ....@...........
+        0x0020:  fffa d714 076c 0170 791b 4e4f 5449 4659  .....l.py.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 7365 7276 6963 653a 5265  p-org:service:Re
+        0x0060:  6e64 6572 696e 6743 6f6e 7472 6f6c 3a31  nderingControl:1
+        0x0070:  0d0a 4341 4348 452d 434f 4e54 524f 4c3a  ..CACHE-CONTROL:
+        0x0080:  206d 6178 2d61 6765 3d31 3830 300d 0a48  .max-age=1800..H
+        0x0090:  4f53 543a 2032 3339 2e32 3535 2e32 3535  OST:.239.255.255
+        0x00a0:  2e32 3530 3a31 3930 300d 0a4e 5453 3a20  .250:1900..NTS:.
+        0x00b0:  7373 6470 3a61 6c69 7665 0d0a 5345 5256  ssdp:alive..SERV
+        0x00c0:  4552 3a20 504f 5349 582f 322e 362c 2055  ER:.POSIX/2.6,.U
+        0x00d0:  506e 502f 312e 302c 2049 6e74 656c 204d  PnP/1.0,.Intel.M
+        0x00e0:  6963 726f 5374 6163 6b2f 312e 302e 3237  icroStack/1.0.27
+        0x00f0:  3737 0d0a 5553 4e3a 2075 7569 643a 3537  77..USN:.uuid:57
+        0x0100:  6266 3762 6565 2d63 3132 642d 3336 6430  bf7bee-c12d-36d0
+        0x0110:  2d63 3661 622d 3662 3333 3261 3461 3565  -c6ab-6b332a4a5e
+        0x0120:  6164 3a3a 7572 6e3a 7363 6865 6d61 732d  ad::urn:schemas-
+        0x0130:  7570 6e70 2d6f 7267 3a73 6572 7669 6365  upnp-org:service
+        0x0140:  3a52 656e 6465 7269 6e67 436f 6e74 726f  :RenderingContro
+        0x0150:  6c3a 310d 0a4c 4f43 4154 494f 4e3a 2068  l:1..LOCATION:.h
+        0x0160:  7474 703a 2f2f 3139 322e 3136 382e 3330  ttp://192.168.30
+        0x0170:  2e32 3433 3a35 3935 3335 2f0d 0a43 6f6e  .243:59535/..Con
+        0x0180:  7465 6e74 2d4c 656e 6774 683a 2030 0d0a  tent-Length:.0..
+        0x0190:  0d0a                                     ..
+19:32:36.186702 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 380)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 352
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017c 0000 4000 0411 a5db c0a8 1ef3 efff  .|..@...........
+        0x0020:  fffa d714 076c 0168 6416 4e4f 5449 4659  .....l.hd.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 6465 7669 6365 3a4d 6564  p-org:device:Med
+        0x0060:  6961 5265 6e64 6572 6572 3a31 0d0a 4341  iaRenderer:1..CA
+        0x0070:  4348 452d 434f 4e54 524f 4c3a 206d 6178  CHE-CONTROL:.max
+        0x0080:  2d61 6765 3d31 3830 300d 0a48 4f53 543a  -age=1800..HOST:
+        0x0090:  2032 3339 2e32 3535 2e32 3535 2e32 3530  .239.255.255.250
+        0x00a0:  3a31 3930 300d 0a4e 5453 3a20 7373 6470  :1900..NTS:.ssdp
+        0x00b0:  3a61 6c69 7665 0d0a 5345 5256 4552 3a20  :alive..SERVER:.
+        0x00c0:  504f 5349 582f 322e 362c 2055 506e 502f  POSIX/2.6,.UPnP/
+        0x00d0:  312e 302c 2049 6e74 656c 204d 6963 726f  1.0,.Intel.Micro
+        0x00e0:  5374 6163 6b2f 312e 302e 3237 3737 0d0a  Stack/1.0.2777..
+        0x00f0:  5553 4e3a 2075 7569 643a 3537 6266 3762  USN:.uuid:57bf7b
+        0x0100:  6565 2d63 3132 642d 3336 6430 2d63 3661  ee-c12d-36d0-c6a
+        0x0110:  622d 3662 3333 3261 3461 3565 6164 3a3a  b-6b332a4a5ead::
+        0x0120:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x0130:  2d6f 7267 3a64 6576 6963 653a 4d65 6469  -org:device:Medi
+        0x0140:  6152 656e 6465 7265 723a 310d 0a4c 4f43  aRenderer:1..LOC
+        0x0150:  4154 494f 4e3a 2068 7474 703a 2f2f 3139  ATION:.http://19
+        0x0160:  322e 3136 382e 3330 2e32 3433 3a35 3935  2.168.30.243:595
+        0x0170:  3335 2f0d 0a43 6f6e 7465 6e74 2d4c 656e  35/..Content-Len
+        0x0180:  6774 683a 2030 0d0a 0d0a                 gth:.0....
+19:32:36.186752 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 380)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 352
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017c 0000 4000 0411 a5db c0a8 1ef3 efff  .|..@...........
+        0x0020:  fffa d714 076c 0168 6416 4e4f 5449 4659  .....l.hd.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 6465 7669 6365 3a4d 6564  p-org:device:Med
+        0x0060:  6961 5265 6e64 6572 6572 3a31 0d0a 4341  iaRenderer:1..CA
+        0x0070:  4348 452d 434f 4e54 524f 4c3a 206d 6178  CHE-CONTROL:.max
+        0x0080:  2d61 6765 3d31 3830 300d 0a48 4f53 543a  -age=1800..HOST:
+        0x0090:  2032 3339 2e32 3535 2e32 3535 2e32 3530  .239.255.255.250
+        0x00a0:  3a31 3930 300d 0a4e 5453 3a20 7373 6470  :1900..NTS:.ssdp
+        0x00b0:  3a61 6c69 7665 0d0a 5345 5256 4552 3a20  :alive..SERVER:.
+        0x00c0:  504f 5349 582f 322e 362c 2055 506e 502f  POSIX/2.6,.UPnP/
+        0x00d0:  312e 302c 2049 6e74 656c 204d 6963 726f  1.0,.Intel.Micro
+        0x00e0:  5374 6163 6b2f 312e 302e 3237 3737 0d0a  Stack/1.0.2777..
+        0x00f0:  5553 4e3a 2075 7569 643a 3537 6266 3762  USN:.uuid:57bf7b
+        0x0100:  6565 2d63 3132 642d 3336 6430 2d63 3661  ee-c12d-36d0-c6a
+        0x0110:  622d 3662 3333 3261 3461 3565 6164 3a3a  b-6b332a4a5ead::
+        0x0120:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x0130:  2d6f 7267 3a64 6576 6963 653a 4d65 6469  -org:device:Medi
+        0x0140:  6152 656e 6465 7265 723a 310d 0a4c 4f43  aRenderer:1..LOC
+        0x0150:  4154 494f 4e3a 2068 7474 703a 2f2f 3139  ATION:.http://19
+        0x0160:  322e 3136 382e 3330 2e32 3433 3a35 3935  2.168.30.243:595
+        0x0170:  3335 2f0d 0a43 6f6e 7465 6e74 2d4c 656e  35/..Content-Len
+        0x0180:  6774 683a 2030 0d0a 0d0a                 gth:.0....
+19:32:36.195622 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 380)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 352
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017c 0000 4000 0411 a5db c0a8 1ef3 efff  .|..@...........
+        0x0020:  fffa d714 076c 0168 6416 4e4f 5449 4659  .....l.hd.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 6465 7669 6365 3a4d 6564  p-org:device:Med
+        0x0060:  6961 5265 6e64 6572 6572 3a31 0d0a 4341  iaRenderer:1..CA
+        0x0070:  4348 452d 434f 4e54 524f 4c3a 206d 6178  CHE-CONTROL:.max
+        0x0080:  2d61 6765 3d31 3830 300d 0a48 4f53 543a  -age=1800..HOST:
+        0x0090:  2032 3339 2e32 3535 2e32 3535 2e32 3530  .239.255.255.250
+        0x00a0:  3a31 3930 300d 0a4e 5453 3a20 7373 6470  :1900..NTS:.ssdp
+        0x00b0:  3a61 6c69 7665 0d0a 5345 5256 4552 3a20  :alive..SERVER:.
+        0x00c0:  504f 5349 582f 322e 362c 2055 506e 502f  POSIX/2.6,.UPnP/
+        0x00d0:  312e 302c 2049 6e74 656c 204d 6963 726f  1.0,.Intel.Micro
+        0x00e0:  5374 6163 6b2f 312e 302e 3237 3737 0d0a  Stack/1.0.2777..
+        0x00f0:  5553 4e3a 2075 7569 643a 3537 6266 3762  USN:.uuid:57bf7b
+        0x0100:  6565 2d63 3132 642d 3336 6430 2d63 3661  ee-c12d-36d0-c6a
+        0x0110:  622d 3662 3333 3261 3461 3565 6164 3a3a  b-6b332a4a5ead::
+        0x0120:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x0130:  2d6f 7267 3a64 6576 6963 653a 4d65 6469  -org:device:Medi
+        0x0140:  6152 656e 6465 7265 723a 310d 0a4c 4f43  aRenderer:1..LOC
+        0x0150:  4154 494f 4e3a 2068 7474 703a 2f2f 3139  ATION:.http://19
+        0x0160:  322e 3136 382e 3330 2e32 3433 3a35 3935  2.168.30.243:595
+        0x0170:  3335 2f0d 0a43 6f6e 7465 6e74 2d4c 656e  35/..Content-Len
+        0x0180:  6774 683a 2030 0d0a 0d0a                 gth:.0....
+19:32:36.195694 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 380)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 352
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  017c 0000 4000 0411 a5db c0a8 1ef3 efff  .|..@...........
+        0x0020:  fffa d714 076c 0168 6416 4e4f 5449 4659  .....l.hd.NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 726e 3a73 6368 656d 6173 2d75 706e  .urn:schemas-upn
+        0x0050:  702d 6f72 673a 6465 7669 6365 3a4d 6564  p-org:device:Med
+        0x0060:  6961 5265 6e64 6572 6572 3a31 0d0a 4341  iaRenderer:1..CA
+        0x0070:  4348 452d 434f 4e54 524f 4c3a 206d 6178  CHE-CONTROL:.max
+        0x0080:  2d61 6765 3d31 3830 300d 0a48 4f53 543a  -age=1800..HOST:
+        0x0090:  2032 3339 2e32 3535 2e32 3535 2e32 3530  .239.255.255.250
+        0x00a0:  3a31 3930 300d 0a4e 5453 3a20 7373 6470  :1900..NTS:.ssdp
+        0x00b0:  3a61 6c69 7665 0d0a 5345 5256 4552 3a20  :alive..SERVER:.
+        0x00c0:  504f 5349 582f 322e 362c 2055 506e 502f  POSIX/2.6,.UPnP/
+        0x00d0:  312e 302c 2049 6e74 656c 204d 6963 726f  1.0,.Intel.Micro
+        0x00e0:  5374 6163 6b2f 312e 302e 3237 3737 0d0a  Stack/1.0.2777..
+        0x00f0:  5553 4e3a 2075 7569 643a 3537 6266 3762  USN:.uuid:57bf7b
+        0x0100:  6565 2d63 3132 642d 3336 6430 2d63 3661  ee-c12d-36d0-c6a
+        0x0110:  622d 3662 3333 3261 3461 3565 6164 3a3a  b-6b332a4a5ead::
+        0x0120:  7572 6e3a 7363 6865 6d61 732d 7570 6e70  urn:schemas-upnp
+        0x0130:  2d6f 7267 3a64 6576 6963 653a 4d65 6469  -org:device:Medi
+        0x0140:  6152 656e 6465 7265 723a 310d 0a4c 4f43  aRenderer:1..LOC
+        0x0150:  4154 494f 4e3a 2068 7474 703a 2f2f 3139  ATION:.http://19
+        0x0160:  322e 3136 382e 3330 2e32 3433 3a35 3935  2.168.30.243:595
+        0x0170:  3335 2f0d 0a43 6f6e 7465 6e74 2d4c 656e  35/..Content-Len
+        0x0180:  6774 683a 2030 0d0a 0d0a                 gth:.0....
+19:32:36.196376 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 333)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 305
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  014d 0000 4000 0411 a60a c0a8 1ef3 efff  .M..@...........
+        0x0020:  fffa d714 076c 0139 e7b1 4e4f 5449 4659  .....l.9..NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 7569 643a 3537 6266 3762 6565 2d63  .uuid:57bf7bee-c
+        0x0050:  3132 642d 3336 6430 2d63 3661 622d 3662  12d-36d0-c6ab-6b
+        0x0060:  3333 3261 3461 3565 6164 0d0a 4341 4348  332a4a5ead..CACH
+        0x0070:  452d 434f 4e54 524f 4c3a 206d 6178 2d61  E-CONTROL:.max-a
+        0x0080:  6765 3d31 3830 300d 0a48 4f53 543a 2032  ge=1800..HOST:.2
+        0x0090:  3339 2e32 3535 2e32 3535 2e32 3530 3a31  39.255.255.250:1
+        0x00a0:  3930 300d 0a4e 5453 3a20 7373 6470 3a61  900..NTS:.ssdp:a
+        0x00b0:  6c69 7665 0d0a 5345 5256 4552 3a20 504f  live..SERVER:.PO
+        0x00c0:  5349 582f 322e 362c 2055 506e 502f 312e  SIX/2.6,.UPnP/1.
+        0x00d0:  302c 2049 6e74 656c 204d 6963 726f 5374  0,.Intel.MicroSt
+        0x00e0:  6163 6b2f 312e 302e 3237 3737 0d0a 5553  ack/1.0.2777..US
+        0x00f0:  4e3a 2075 7569 643a 3537 6266 3762 6565  N:.uuid:57bf7bee
+        0x0100:  2d63 3132 642d 3336 6430 2d63 3661 622d  -c12d-36d0-c6ab-
+        0x0110:  3662 3333 3261 3461 3565 6164 0d0a 4c4f  6b332a4a5ead..LO
+        0x0120:  4341 5449 4f4e 3a20 6874 7470 3a2f 2f31  CATION:.http://1
+        0x0130:  3932 2e31 3638 2e33 302e 3234 333a 3539  92.168.30.243:59
+        0x0140:  3533 352f 0d0a 436f 6e74 656e 742d 4c65  535/..Content-Le
+        0x0150:  6e67 7468 3a20 300d 0a0d 0a              ngth:.0....
+19:32:36.196443 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 333)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 305
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  014d 0000 4000 0411 a60a c0a8 1ef3 efff  .M..@...........
+        0x0020:  fffa d714 076c 0139 e7b1 4e4f 5449 4659  .....l.9..NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 7569 643a 3537 6266 3762 6565 2d63  .uuid:57bf7bee-c
+        0x0050:  3132 642d 3336 6430 2d63 3661 622d 3662  12d-36d0-c6ab-6b
+        0x0060:  3333 3261 3461 3565 6164 0d0a 4341 4348  332a4a5ead..CACH
+        0x0070:  452d 434f 4e54 524f 4c3a 206d 6178 2d61  E-CONTROL:.max-a
+        0x0080:  6765 3d31 3830 300d 0a48 4f53 543a 2032  ge=1800..HOST:.2
+        0x0090:  3339 2e32 3535 2e32 3535 2e32 3530 3a31  39.255.255.250:1
+        0x00a0:  3930 300d 0a4e 5453 3a20 7373 6470 3a61  900..NTS:.ssdp:a
+        0x00b0:  6c69 7665 0d0a 5345 5256 4552 3a20 504f  live..SERVER:.PO
+        0x00c0:  5349 582f 322e 362c 2055 506e 502f 312e  SIX/2.6,.UPnP/1.
+        0x00d0:  302c 2049 6e74 656c 204d 6963 726f 5374  0,.Intel.MicroSt
+        0x00e0:  6163 6b2f 312e 302e 3237 3737 0d0a 5553  ack/1.0.2777..US
+        0x00f0:  4e3a 2075 7569 643a 3537 6266 3762 6565  N:.uuid:57bf7bee
+        0x0100:  2d63 3132 642d 3336 6430 2d63 3661 622d  -c12d-36d0-c6ab-
+        0x0110:  3662 3333 3261 3461 3565 6164 0d0a 4c4f  6b332a4a5ead..LO
+        0x0120:  4341 5449 4f4e 3a20 6874 7470 3a2f 2f31  CATION:.http://1
+        0x0130:  3932 2e31 3638 2e33 302e 3234 333a 3539  92.168.30.243:59
+        0x0140:  3533 352f 0d0a 436f 6e74 656e 742d 4c65  535/..Content-Le
+        0x0150:  6e67 7468 3a20 300d 0a0d 0a              ngth:.0....
+19:32:36.196833 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 333)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 305
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  014d 0000 4000 0411 a60a c0a8 1ef3 efff  .M..@...........
+        0x0020:  fffa d714 076c 0139 e7b1 4e4f 5449 4659  .....l.9..NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 7569 643a 3537 6266 3762 6565 2d63  .uuid:57bf7bee-c
+        0x0050:  3132 642d 3336 6430 2d63 3661 622d 3662  12d-36d0-c6ab-6b
+        0x0060:  3333 3261 3461 3565 6164 0d0a 4341 4348  332a4a5ead..CACH
+        0x0070:  452d 434f 4e54 524f 4c3a 206d 6178 2d61  E-CONTROL:.max-a
+        0x0080:  6765 3d31 3830 300d 0a48 4f53 543a 2032  ge=1800..HOST:.2
+        0x0090:  3339 2e32 3535 2e32 3535 2e32 3530 3a31  39.255.255.250:1
+        0x00a0:  3930 300d 0a4e 5453 3a20 7373 6470 3a61  900..NTS:.ssdp:a
+        0x00b0:  6c69 7665 0d0a 5345 5256 4552 3a20 504f  live..SERVER:.PO
+        0x00c0:  5349 582f 322e 362c 2055 506e 502f 312e  SIX/2.6,.UPnP/1.
+        0x00d0:  302c 2049 6e74 656c 204d 6963 726f 5374  0,.Intel.MicroSt
+        0x00e0:  6163 6b2f 312e 302e 3237 3737 0d0a 5553  ack/1.0.2777..US
+        0x00f0:  4e3a 2075 7569 643a 3537 6266 3762 6565  N:.uuid:57bf7bee
+        0x0100:  2d63 3132 642d 3336 6430 2d63 3661 622d  -c12d-36d0-c6ab-
+        0x0110:  3662 3333 3261 3461 3565 6164 0d0a 4c4f  6b332a4a5ead..LO
+        0x0120:  4341 5449 4f4e 3a20 6874 7470 3a2f 2f31  CATION:.http://1
+        0x0130:  3932 2e31 3638 2e33 302e 3234 333a 3539  92.168.30.243:59
+        0x0140:  3533 352f 0d0a 436f 6e74 656e 742d 4c65  535/..Content-Le
+        0x0150:  6e67 7468 3a20 300d 0a0d 0a              ngth:.0....
+19:32:36.196899 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 333)
+    miracast-sidescreen.loc.55060 > 239.255.255.250.1900: [udp sum ok] UDP, length 305
+        0x0000:  0100 5e7f fffa 381d d941 dbff 0800 4500  ..^...8..A....E.
+        0x0010:  014d 0000 4000 0411 a60a c0a8 1ef3 efff  .M..@...........
+        0x0020:  fffa d714 076c 0139 e7b1 4e4f 5449 4659  .....l.9..NOTIFY
+        0x0030:  202a 2048 5454 502f 312e 310d 0a4e 543a  .*.HTTP/1.1..NT:
+        0x0040:  2075 7569 643a 3537 6266 3762 6565 2d63  .uuid:57bf7bee-c
+        0x0050:  3132 642d 3336 6430 2d63 3661 622d 3662  12d-36d0-c6ab-6b
+        0x0060:  3333 3261 3461 3565 6164 0d0a 4341 4348  332a4a5ead..CACH
+        0x0070:  452d 434f 4e54 524f 4c3a 206d 6178 2d61  E-CONTROL:.max-a
+        0x0080:  6765 3d31 3830 300d 0a48 4f53 543a 2032  ge=1800..HOST:.2
+        0x0090:  3339 2e32 3535 2e32 3535 2e32 3530 3a31  39.255.255.250:1
+        0x00a0:  3930 300d 0a4e 5453 3a20 7373 6470 3a61  900..NTS:.ssdp:a
+        0x00b0:  6c69 7665 0d0a 5345 5256 4552 3a20 504f  live..SERVER:.PO
+        0x00c0:  5349 582f 322e 362c 2055 506e 502f 312e  SIX/2.6,.UPnP/1.
+        0x00d0:  302c 2049 6e74 656c 204d 6963 726f 5374  0,.Intel.MicroSt
+        0x00e0:  6163 6b2f 312e 302e 3237 3737 0d0a 5553  ack/1.0.2777..US
+        0x00f0:  4e3a 2075 7569 643a 3537 6266 3762 6565  N:.uuid:57bf7bee
+        0x0100:  2d63 3132 642d 3336 6430 2d63 3661 622d  -c12d-36d0-c6ab-
+        0x0110:  3662 3333 3261 3461 3565 6164 0d0a 4c4f  6b332a4a5ead..LO
+        0x0120:  4341 5449 4f4e 3a20 6874 7470 3a2f 2f31  CATION:.http://1
+        0x0130:  3932 2e31 3638 2e33 302e 3234 333a 3539  92.168.30.243:59
+        0x0140:  3533 352f 0d0a 436f 6e74 656e 742d 4c65  535/..Content-Le
+        0x0150:  6e67 7468 3a20 300d 0a0d 0a              ngth:.0....
+19:32:36.198988 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 150)
+    miracast-sidescreen.loc.2425 > 192.168.30.255.2425: [udp sum ok] UDP, length 122
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0096 0000 4000 4011 7b14 c0a8 1ef3 c0a8  ....@.@.{.......
+        0x0020:  1eff 0979 0979 0082 813e 313a 3138 3536  ...y.y...>1:1856
+        0x0030:  3a72 6f6f 743a 4d69 7261 5363 7265 656e  :root:MiraScreen
+        0x0040:  2044 3934 3144 4246 463a 373a 7665 6e64  .D941DBFF:7:vend
+        0x0050:  6f72 3d45 5a43 4153 543a 6d6f 6465 6c3d  or=EZCAST:model=
+        0x0060:  455a 4341 5354 3a73 6572 7669 6365 3d31  EZCAST:service=1
+        0x0070:  6239 663a 6469 7363 6f76 6572 793d 313a  b9f:discovery=1:
+        0x0080:  6d64 353d 4645 3443 3630 3038 3241 4334  md5=FE4C60082AC4
+        0x0090:  3645 4541 4346 3744 3130 4532 3834 3435  6EEACF7D10E28445
+        0x00a0:  4333 3945                                C39E
+19:32:36.199119 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 150)
+    miracast-sidescreen.loc.2425 > 192.168.30.255.2425: [udp sum ok] UDP, length 122
+        0x0000:  ffff ffff ffff 381d d941 dbff 0800 4500  ......8..A....E.
+        0x0010:  0096 0000 4000 4011 7b14 c0a8 1ef3 c0a8  ....@.@.{.......
+        0x0020:  1eff 0979 0979 0082 813e 313a 3138 3536  ...y.y...>1:1856
+        0x0030:  3a72 6f6f 743a 4d69 7261 5363 7265 656e  :root:MiraScreen
+        0x0040:  2044 3934 3144 4246 463a 373a 7665 6e64  .D941DBFF:7:vend
+        0x0050:  6f72 3d45 5a43 4153 543a 6d6f 6465 6c3d  or=EZCAST:model=
+        0x0060:  455a 4341 5354 3a73 6572 7669 6365 3d31  EZCAST:service=1
+        0x0070:  6239 663a 6469 7363 6f76 6572 793d 313a  b9f:discovery=1:
+        0x0080:  6d64 353d 4645 3443 3630 3038 3241 4334  md5=FE4C60082AC4
+        0x0090:  3645 4541 4346 3744 3130 4532 3834 3435  6EEACF7D10E28445
+        0x00a0:  4333 3945                                C39E
+19:32:36.214574 IP (tos 0x0, ttl 64, id 26045, offset 0, flags [DF], proto UDP (17), length 70)
+    miracast-sidescreen.loc.34042 > 192.168.30.1.domain: [udp sum ok] 16259+ A? ssl.google-analytics.com. (42)
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  0046 65bd 4000 4011 16a5 c0a8 1ef3 c0a8  .Fe.@.@.........
+        0x0020:  1e01 84fa 0035 0032 cf19 3f83 0100 0001  .....5.2..?.....
+        0x0030:  0000 0000 0000 0373 736c 1067 6f6f 676c  .......ssl.googl
+        0x0040:  652d 616e 616c 7974 6963 7303 636f 6d00  e-analytics.com.
+        0x0050:  0001 0001                                ....
+19:32:36.261857 IP (tos 0x0, ttl 64, id 10425, offset 0, flags [DF], proto UDP (17), length 122)
+    192.168.30.1.domain > miracast-sidescreen.loc.46543: [udp sum ok] 12595 q: A? pool.ntp.org. 4/0/0 pool.ntp.org. A 52.209.118.149, pool.ntp.org. A 89.234.64.77, pool.ntp.org. A 162.159.200.1, pool.ntp.org. A 162.159.200.123 (94)
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  007a 28b9 4000 4011 5375 c0a8 1e01 c0a8  .z(.@.@.Su......
+        0x0020:  1ef3 0035 b5cf 0066 26ba 3133 8180 0001  ...5...f&.13....
+        0x0030:  0004 0000 0000 0470 6f6f 6c03 6e74 7003  .......pool.ntp.
+        0x0040:  6f72 6700 0001 0001 c00c 0001 0001 0000  org.............
+        0x0050:  003c 0004 34d1 7695 c00c 0001 0001 0000  .<..4.v.........
+        0x0060:  003c 0004 59ea 404d c00c 0001 0001 0000  .<..Y.@M........
+        0x0070:  003c 0004 a29f c801 c00c 0001 0001 0000  .<..............
+        0x0080:  003c 0004 a29f c87b                      .<.....{
+19:32:36.265177 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto ICMP (1), length 84)
+    miracast-sidescreen.loc > ec2-52-209-118-149.eu-west-1.compute.amazonaws.com: ICMP echo request, id 30220, seq 0, length 64
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  0054 0000 4000 4001 afa7 c0a8 1ef3 34d1  .T..@.@.......4.
+        0x0020:  7695 0800 72af 760c 0000 7643 9900 0000  v...r.v...vC....
+        0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000                                     ..
+19:32:36.265379 IP (tos 0xc0, ttl 64, id 8710, offset 0, flags [none], proto ICMP (1), length 112)
+    192.168.30.1 > miracast-sidescreen.loc: ICMP ec2-52-209-118-149.eu-west-1.compute.amazonaws.com protocol 1 port 29359 unreachable, length 92
+        IP (tos 0x0, ttl 63, id 0, offset 0, flags [DF], proto ICMP (1), length 84)
+    miracast-sidescreen.loc > ec2-52-209-118-149.eu-west-1.compute.amazonaws.com: ICMP echo request, id 30220, seq 0, length 64
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 45c0  8..A......!...E.
+        0x0010:  0070 2206 0000 4001 9982 c0a8 1e01 c0a8  .p"...@.........
+        0x0020:  1ef3 0303 fcfc 0000 0000 4500 0054 0000  ..........E..T..
+        0x0030:  4000 3f01 b0a7 c0a8 1ef3 34d1 7695 0800  @.?.......4.v...
+        0x0040:  72af 760c 0000 7643 9900 0000 0000 0000  r.v...vC........
+        0x0050:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0060:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+        0x0070:  0000 0000 0000 0000 0000 0000 0000       ..............
+19:32:36.435999 IP (tos 0x0, ttl 64, id 10430, offset 0, flags [DF], proto UDP (17), length 130)
+    192.168.30.1.domain > miracast-sidescreen.loc.34042: [udp sum ok] 16259 q: A? ssl.google-analytics.com. 2/0/0 ssl.google-analytics.com. CNAME ssl-google-analytics.l.google.com., ssl-google-analytics.l.google.com. A 74.125.193.97 (102)
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  0082 28be 4000 4011 5368 c0a8 1e01 c0a8  ..(.@.@.Sh......
+        0x0020:  1ef3 0035 84fa 006e 481e 3f83 8180 0001  ...5...nH.?.....
+        0x0030:  0002 0000 0000 0373 736c 1067 6f6f 676c  .......ssl.googl
+        0x0040:  652d 616e 616c 7974 6963 7303 636f 6d00  e-analytics.com.
+        0x0050:  0001 0001 c00c 0005 0001 0000 003c 0020  .............<..
+        0x0060:  1473 736c 2d67 6f6f 676c 652d 616e 616c  .ssl-google-anal
+        0x0070:  7974 6963 7301 6c06 676f 6f67 6c65 c021  ytics.l.google.!
+        0x0080:  c036 0001 0001 0000 000e 0004 4a7d c161  .6..........J}.a
+19:32:36.438871 IP (tos 0x0, ttl 64, id 3666, offset 0, flags [DF], proto TCP (6), length 60)
+    miracast-sidescreen.loc.36328 > ig-in-f97.1e100.net.https: Flags [S], cksum 0xb1a4 (correct), seq 852192165, win 5840, options [mss 1460,sackOK,TS val 615927 ecr 0,nop,wscale 4], length 0
+        0x0000:  10fe ed94 21f3 381d d941 dbff 0800 4500  ....!.8..A....E.
+        0x0010:  003c 0e52 4000 4006 40f0 c0a8 1ef3 4a7d  .<.R@.@.@.....J}
+        0x0020:  c161 8de8 01bb 32cb 6ba5 0000 0000 a002  .a....2.k.......
+        0x0030:  16d0 b1a4 0000 0204 05b4 0402 080a 0009  ................
+        0x0040:  65f7 0000 0000 0103 0304                 e.........
+19:32:36.439074 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    ig-in-f97.1e100.net.https > miracast-sidescreen.loc.36328: Flags [R.], cksum 0x9641 (correct), seq 0, ack 852192166, win 0, length 0
+        0x0000:  381d d941 dbff 10fe ed94 21f3 0800 4500  8..A......!...E.
+        0x0010:  0028 0000 4000 4006 4f56 4a7d c161 c0a8  .(..@.@.OVJ}.a..
+        0x0020:  1ef3 01bb 8de8 0000 0000 32cb 6ba6 5014  ..........2.k.P.
+        0x0030:  0000 9641 0000                           ...A..

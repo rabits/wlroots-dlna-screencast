@@ -1,0 +1,8 @@
+https://github.com/tenable/upnp_info
+libav examples: https://github.com/FFmpeg/FFmpeg/blob/master/doc/examples/muxing.c https://github.com/FFmpeg/FFmpeg/blob/master/doc/examples/vaapi_encode.c https://github.com/leandromoreira/ffmpeg-libav-tutorial
+android log refs: https://android.googlesource.com/platform/frameworks/base/+/a029ea1/services/java/com/android/server/display/WifiDisplayController.java
+MiraScreen teardown: https://github.com/gipi/teardown/tree/master/MiraScreen
+dlna streaming: https://realmike.org/blog/2011/02/09/live-desktop-streaming-via-dlna-on-gnulinux/
+ffmpeg zero-latency stream: https://trac.ffmpeg.org/wiki/StreamingGuide https://web.archive.org/web/20140823055916/http://mewiki.project357.com/wiki/X264_Encoding_Suggestions
+multimedia open networking doc: https://pdfs.semanticscholar.org/92e0/3612c6d32957f0264d62391207c47e004757.pdf
+airtunes unofficial spec: http://nto.github.io/AirPlay.html

@@ -1,0 +1,5 @@
+upnp direct: sudo nmap -sU -p 1900 --script=upnp-info 192.168.30.243
+upnp multicast: sudo nmap -sU -p 1900 --script=broadcast-upnp-info 239.255.255.250
+zeroconf: sudo nmap -sU -p5353 --script=dns-service-discovery 192.168.30.243
+get tcpdump: tcpdump -vv -XX -s 0 -i wlan0
+to create realtime stream: ffmpeg -r 30 -f video4linux2 -input_format mjpeg -i /dev/video0 -pix_fmt yuv420p -an -vcodec libx264 -thread_type slice -slices 1 -profile baseline -level 32 -preset superfast -tune zerolatency -intra-refresh 1 -crf 15 -x264-params vbv-maxrate=5000:vbv-bufsize=1:slice-max-size=1500:keyint=60 out_stream.mkv

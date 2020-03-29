@@ -1,0 +1,242 @@
+ sudo nmap -p0- -v -A -T4 miracast-sidescreen.loc
+[sudo] password for user:
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-03-23 15:24 PDT
+NSE: Loaded 146 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 15:24
+Completed NSE at 15:24, 0.00s elapsed
+Initiating NSE at 15:24
+Completed NSE at 15:24, 0.00s elapsed
+Initiating Ping Scan at 15:24
+Scanning miracast-sidescreen.loc (192.168.30.243) [4 ports]
+Completed Ping Scan at 15:24, 0.23s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 15:24
+Completed Parallel DNS resolution of 1 host. at 15:24, 0.00s elapsed
+Initiating SYN Stealth Scan at 15:24
+Scanning miracast-sidescreen.loc (192.168.30.243) [65536 ports]
+Discovered open port 80/tcp on 192.168.30.243
+Discovered open port 53/tcp on 192.168.30.243
+Increasing send delay for 192.168.30.243 from 0 to 5 due to 815 out of 2037 dropped probes since last increase.
+Increasing send delay for 192.168.30.243 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 57238/tcp on 192.168.30.243
+SYN Stealth Scan Timing: About 6.51% done; ETC: 15:32 (0:07:25 remaining)
+SYN Stealth Scan Timing: About 8.96% done; ETC: 15:35 (0:10:20 remaining)
+Warning: 192.168.30.243 giving up on port because retransmission cap hit (6).
+SYN Stealth Scan Timing: About 11.22% done; ETC: 15:37 (0:12:00 remaining)
+SYN Stealth Scan Timing: About 13.49% done; ETC: 15:39 (0:12:56 remaining)
+SYN Stealth Scan Timing: About 17.31% done; ETC: 15:40 (0:13:41 remaining)
+Discovered open port 54172/tcp on 192.168.30.243
+Discovered open port 7000/tcp on 192.168.30.243
+SYN Stealth Scan Timing: About 39.73% done; ETC: 15:45 (0:12:51 remaining)
+SYN Stealth Scan Timing: About 46.25% done; ETC: 15:46 (0:11:46 remaining)
+Discovered open port 2425/tcp on 192.168.30.243
+SYN Stealth Scan Timing: About 52.08% done; ETC: 15:46 (0:10:39 remaining)
+SYN Stealth Scan Timing: About 57.69% done; ETC: 15:46 (0:09:31 remaining)
+SYN Stealth Scan Timing: About 63.11% done; ETC: 15:46 (0:08:22 remaining)
+SYN Stealth Scan Timing: About 68.52% done; ETC: 15:47 (0:07:12 remaining)
+Discovered open port 63630/tcp on 192.168.30.243
+SYN Stealth Scan Timing: About 73.72% done; ETC: 15:47 (0:06:03 remaining)
+SYN Stealth Scan Timing: About 78.96% done; ETC: 15:47 (0:04:52 remaining)
+SYN Stealth Scan Timing: About 84.14% done; ETC: 15:47 (0:03:41 remaining)
+SYN Stealth Scan Timing: About 89.34% done; ETC: 15:47 (0:02:29 remaining)
+SYN Stealth Scan Timing: About 94.54% done; ETC: 15:47 (0:01:17 remaining)
+Discovered open port 7100/tcp on 192.168.30.243
+Discovered open port 7001/tcp on 192.168.30.243
+Discovered open port 60099/tcp on 192.168.30.243
+Completed SYN Stealth Scan at 15:51, 1651.83s elapsed (65536 total ports)
+Initiating Service scan at 15:51
+Scanning 10 services on miracast-sidescreen.loc (192.168.30.243)
+Service scan Timing: About 40.00% done; ETC: 15:53 (0:00:51 remaining)
+Service scan Timing: About 60.00% done; ETC: 15:55 (0:01:21 remaining)
+Completed Service scan at 15:54, 146.26s elapsed (10 services on 1 host)
+Initiating OS detection (try #1) against miracast-sidescreen.loc (192.168.30.243)
+Initiating Traceroute at 15:54
+Completed Traceroute at 15:54, 0.01s elapsed
+Initiating Parallel DNS resolution of 2 hosts. at 15:54
+Completed Parallel DNS resolution of 2 hosts. at 15:54, 0.00s elapsed
+NSE: Script scanning 192.168.30.243.
+Initiating NSE at 15:54
+Completed NSE at 15:54, 9.05s elapsed
+Initiating NSE at 15:54
+Completed NSE at 15:54, 1.12s elapsed
+Nmap scan report for miracast-sidescreen.loc (192.168.30.243)
+Host is up (0.0043s latency).
+Not shown: 65526 closed ports
+PORT      STATE SERVICE       VERSION
+53/tcp    open  domain        dnsmasq 2.72
+| dns-nsid:
+|_  bind.version: dnsmasq-2.72
+80/tcp    open  http          thttpd 2.25b 29dec2003
+| http-methods:
+|_  Supported Methods: GET HEAD POST
+|_http-server-header: thttpd/2.25b 29dec2003
+|_http-title: Setup
+2425/tcp  open  fjitsuappmgr?
+7000/tcp  open  rtsp
+| fingerprint-strings:
+|   HTTPOptions:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:52:13 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|     CSeq: 0
+|   RTSPRequest:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:52:19 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|     CSeq: 0
+|   SIPOptions:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:52:28 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|_    CSeq: 42
+|_irc-info: Unable to open connection
+|_rtsp-methods: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+7001/tcp  open  rtsp
+| fingerprint-strings:
+|   HTTPOptions:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:51:53 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|     CSeq: 0
+|   RTSPRequest:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:51:59 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|     CSeq: 0
+|   SIPOptions:
+|     RTSP/1.0 200 OK
+|     Date: Mon, 23 Mar 2020 22:52:09 +0000
+|     Public: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+|     Server: AirTunes/220.68
+|_    CSeq: 42
+|_rtsp-methods: ANNOUNCE, SETUP, RECORD, PAUSE, FLUSH, TEARDOWN, OPTIONS, GET_PARAMETER, SET_PARAMETER, POST, GET
+7100/tcp  open  font-service?
+54172/tcp open  unknown
+57238/tcp open  unknown
+60099/tcp open  upnp
+| fingerprint-strings:
+|   FourOhFourRequest:
+|     HTTP/1.1 404 File Not Found
+|     CONTENT-TYPE: text/xml; charset="utf-8"
+|     Server: POSIX, UPnP/1.0, Intel MicroStack/1.0.2777
+|     Content-Length: 0
+|   GetRequest:
+|     HTTP/1.1 200 OK
+|     CONTENT-TYPE: text/xml; charset="utf-8"
+|     Server: POSIX, UPnP/1.0, Intel MicroStack/1.0.2777
+|     <?xml version="1.0" encoding="utf-8"?>
+|     <root xmlns="urn:schemas-upnp-org:device-1-0">
+|     <specVersion>
+|     <major>1</major>
+|     <minor>0</minor>
+|     </specVersion>
+|     <device>
+|     <deviceType>urn:schemas-upnp-org:device:MediaRenderer:1</deviceType>
+|     <dlna:X_DLNADOC xmlns:dlna="urn:schemas-dlna-org:device-1-0">DMR-1.50</dlna:X_DLNADOC>
+|     <friendlyName>MiraScreen D941DBFF</friendlyName>
+|     <manufacturer> </manufacturer>
+|     <manufacturerURL>http://actions-micro.com</manufacturerURL>
+|     <modelDescription>Actions-Micro DLNA DMR Using Auto-Generated UPnP Stack</modelDescription>
+|     <modelName>MiraScreen D941DBFF</modelName>
+|     <modelNumber> </modelNumber>
+|     <modelURL>http://actions-micro.com</modelURL>
+|     <serialNumber>Actionsmicro
+|   HTTPOptions, RTSPRequest, SIPOptions:
+|     HTTP/1.1 400 Bad Request
+|     CONTENT-TYPE: text/xml; charset="utf-8"
+|     Server: POSIX, UPnP/1.0, Intel MicroStack/1.0.2777
+|_    Content-Length: 0
+63630/tcp open  unknown
+3 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port7000-TCP:V=7.60%I=7%D=3/23%Time=5E793DA2%P=x86_64-pc-linux-gnu%r(HT
+SF:TPOptions,C7,"RTSP/1\.0\x20200\x20OK\r\nDate:\x20Mon,\x2023\x20Mar\x202
+SF:020\x2022:52:13\x20\+0000\r\nPublic:\x20ANNOUNCE,\x20SETUP,\x20RECORD,\
+SF:x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,\x20GET_PARAMETER,\x20SET_P
+SF:ARAMETER,\x20POST,\x20GET\r\nServer:\x20AirTunes/220\.68\r\nCSeq:\x200\
+SF:r\n\r\n")%r(RTSPRequest,C7,"RTSP/1\.0\x20200\x20OK\r\nDate:\x20Mon,\x20
+SF:23\x20Mar\x202020\x2022:52:19\x20\+0000\r\nPublic:\x20ANNOUNCE,\x20SETU
+SF:P,\x20RECORD,\x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,\x20GET_PARAM
+SF:ETER,\x20SET_PARAMETER,\x20POST,\x20GET\r\nServer:\x20AirTunes/220\.68\
+SF:r\nCSeq:\x200\r\n\r\n")%r(SIPOptions,C8,"RTSP/1\.0\x20200\x20OK\r\nDate
+SF::\x20Mon,\x2023\x20Mar\x202020\x2022:52:28\x20\+0000\r\nPublic:\x20ANNO
+SF:UNCE,\x20SETUP,\x20RECORD,\x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,
+SF:\x20GET_PARAMETER,\x20SET_PARAMETER,\x20POST,\x20GET\r\nServer:\x20AirT
+SF:unes/220\.68\r\nCSeq:\x2042\r\n\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port7001-TCP:V=7.60%I=7%D=3/23%Time=5E793D8E%P=x86_64-pc-linux-gnu%r(HT
+SF:TPOptions,C7,"RTSP/1\.0\x20200\x20OK\r\nDate:\x20Mon,\x2023\x20Mar\x202
+SF:020\x2022:51:53\x20\+0000\r\nPublic:\x20ANNOUNCE,\x20SETUP,\x20RECORD,\
+SF:x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,\x20GET_PARAMETER,\x20SET_P
+SF:ARAMETER,\x20POST,\x20GET\r\nServer:\x20AirTunes/220\.68\r\nCSeq:\x200\
+SF:r\n\r\n")%r(RTSPRequest,C7,"RTSP/1\.0\x20200\x20OK\r\nDate:\x20Mon,\x20
+SF:23\x20Mar\x202020\x2022:51:59\x20\+0000\r\nPublic:\x20ANNOUNCE,\x20SETU
+SF:P,\x20RECORD,\x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,\x20GET_PARAM
+SF:ETER,\x20SET_PARAMETER,\x20POST,\x20GET\r\nServer:\x20AirTunes/220\.68\
+SF:r\nCSeq:\x200\r\n\r\n")%r(SIPOptions,C8,"RTSP/1\.0\x20200\x20OK\r\nDate
+SF::\x20Mon,\x2023\x20Mar\x202020\x2022:52:09\x20\+0000\r\nPublic:\x20ANNO
+SF:UNCE,\x20SETUP,\x20RECORD,\x20PAUSE,\x20FLUSH,\x20TEARDOWN,\x20OPTIONS,
+SF:\x20GET_PARAMETER,\x20SET_PARAMETER,\x20POST,\x20GET\r\nServer:\x20AirT
+SF:unes/220\.68\r\nCSeq:\x2042\r\n\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port60099-TCP:V=7.60%I=7%D=3/23%Time=5E793D84%P=x86_64-pc-linux-gnu%r(G
+SF:etRequest,76F,"HTTP/1\.1\x20200\x20OK\r\nCONTENT-TYPE:\x20\x20text/xml;
+SF:\x20charset=\"utf-8\"\r\nServer:\x20POSIX,\x20UPnP/1\.0,\x20Intel\x20Mi
+SF:croStack/1\.0\.2777\r\n\r\n<\?xml\x20version=\"1\.0\"\x20encoding=\"utf
+SF:-8\"\?>\r\n<root\x20xmlns=\"urn:schemas-upnp-org:device-1-0\">\r\n\x20\
+SF:x20\x20<specVersion>\r\n\x20\x20\x20\x20\x20\x20<major>1</major>\r\n\x2
+SF:0\x20\x20\x20\x20\x20<minor>0</minor>\r\n\x20\x20\x20</specVersion>\r\n
+SF:\x20\x20\x20<device>\r\n\x20\x20\x20\x20\x20\x20<deviceType>urn:schemas
+SF:-upnp-org:device:MediaRenderer:1</deviceType>\r\n\x20\x20\x20\x20\x20\x
+SF:20<dlna:X_DLNADOC\x20xmlns:dlna=\"urn:schemas-dlna-org:device-1-0\">DMR
+SF:-1\.50</dlna:X_DLNADOC>\r\n\x20\x20\x20\x20\x20\x20<friendlyName>MiraSc
+SF:reen\x20D941DBFF</friendlyName>\r\n\x20\x20\x20\x20\x20\x20<manufacture
+SF:r>\x20</manufacturer>\r\n\x20\x20\x20\x20\x20\x20<manufacturerURL>http:
+SF://actions-micro\.com</manufacturerURL>\r\n\x20\x20\x20\x20\x20\x20<mode
+SF:lDescription>Actions-Micro\x20DLNA\x20DMR\x20Using\x20Auto-Generated\x2
+SF:0UPnP\x20Stack</modelDescription>\r\n\x20\x20\x20\x20\x20\x20<modelName
+SF:>MiraScreen\x20D941DBFF</modelName>\r\n\x20\x20\x20\x20\x20\x20<modelNu
+SF:mber>\x20</modelNumber>\r\n\x20\x20\x20\x20\x20\x20<modelURL>http://act
+SF:ions-micro\.com</modelURL>\r\n\x20\x20\x20\x20\x20\x20<serialNumber>Act
+SF:ionsmicro")%r(HTTPOptions,8D,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCON
+SF:TENT-TYPE:\x20\x20text/xml;\x20charset=\"utf-8\"\r\nServer:\x20POSIX,\x
+SF:20UPnP/1\.0,\x20Intel\x20MicroStack/1\.0\.2777\r\nContent-Length:\x200\
+SF:r\n\r\n")%r(RTSPRequest,8D,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCONTE
+SF:NT-TYPE:\x20\x20text/xml;\x20charset=\"utf-8\"\r\nServer:\x20POSIX,\x20
+SF:UPnP/1\.0,\x20Intel\x20MicroStack/1\.0\.2777\r\nContent-Length:\x200\r\
+SF:n\r\n")%r(FourOhFourRequest,90,"HTTP/1\.1\x20404\x20File\x20Not\x20Foun
+SF:d\r\nCONTENT-TYPE:\x20\x20text/xml;\x20charset=\"utf-8\"\r\nServer:\x20
+SF:POSIX,\x20UPnP/1\.0,\x20Intel\x20MicroStack/1\.0\.2777\r\nContent-Lengt
+SF:h:\x200\r\n\r\n")%r(SIPOptions,8D,"HTTP/1\.1\x20400\x20Bad\x20Request\r
+SF:\nCONTENT-TYPE:\x20\x20text/xml;\x20charset=\"utf-8\"\r\nServer:\x20POS
+SF:IX,\x20UPnP/1\.0,\x20Intel\x20MicroStack/1\.0\.2777\r\nContent-Length:\
+SF:x200\r\n\r\n");
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.8 - 2.6.30
+Uptime guess: 0.054 days (since Mon Mar 23 14:35:58 2020)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=199 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+TRACEROUTE (using port 5900/tcp)
+HOP RTT     ADDRESS
+1   0.67 ms router.psa (192.168.21.1)
+2   4.51 ms miracast-sidescreen.loc (192.168.30.243)
+
+NSE: Script Post-scanning.
+Initiating NSE at 15:54
+Completed NSE at 15:54, 0.00s elapsed
+Initiating NSE at 15:54
+Completed NSE at 15:54, 0.00s elapsed
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1811.49 seconds
+           Raw packets sent: 139100 (6.122MB) | Rcvd: 137312 (5.495MB)

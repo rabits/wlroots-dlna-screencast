@@ -1,0 +1,5 @@
+/obj
+/.venv
+/wlroots-screen-record
+/tmp
+__pycache__
